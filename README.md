@@ -5,7 +5,7 @@
 Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
-[HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | Mac, Win | Premiere + After Effects
+[HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
 [Ardour](https://ardour.org/) | DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin | VST Plugins
@@ -23,7 +23,7 @@ Name | Specifics | Platform | Popular Alternative
 [LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
-[FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate tool | Win | ACDSee
+[FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee
 [Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
 
 
@@ -32,7 +32,7 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [Visual Studio Code](https://code.visualstudio.com/) | Ultimate | Lin, Mac, Win | Sublime Text
-[AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | Win | `notepad.exe`
+[AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | **Win** | `notepad.exe`
 [Neovim](https://neovim.io/) | It seems hard unless you try ([my .vimrc](https://github.com/Himura2la/nvim-config)) | Lin, Mac, Win | Vim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
 [Oni](https://github.com/onivim/oni) | Neovim-based IDE | Lin, Mac, Win | Neovim-Qt
