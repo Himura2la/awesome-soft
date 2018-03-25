@@ -12,3 +12,11 @@ Name | Type | OS | Popular Alternative
 [LMMS](https://lmms.io/) | DAW (All-in-One) | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Adobe Audition in a single-track mode
 
+# Text Editors
+
+Name | Specifics | OS | Popular Alternative
+---- | --------- | -- | -------------------
+[Visual Studio Code](https://code.visualstudio.com/) | Ultimate | Lin, Mac, Win | Sublime Text
+[AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | Win | `notepad.exe`
+[Neovim](https://neovim.io/) | It seems hard unless you try | Lin, Mac, Win | Vim
+
