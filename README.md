@@ -8,7 +8,7 @@ Name | Type | Platform | Popular Alternative
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
 [Ardour](https://ardour.org/) | DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
-[Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin | Random VST Plugins
+[Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
 [LMMS](https://lmms.io/) | DAW (All-in-One) | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
