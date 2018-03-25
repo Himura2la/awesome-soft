@@ -13,7 +13,7 @@ Name | Type | Platform | Popular Alternative
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 
 
-## Design Tools
+## Imaging and Design Tools
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -22,6 +22,7 @@ Name | Specifics | Platform | Popular Alternative
 [LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
+[FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate tool | Win | ACDSee
 
 
 
