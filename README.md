@@ -83,3 +83,6 @@ Name | Specifics | Software
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266) | The cheapest MCU with Wi-Fi | [MicroPython](https://micropython.org/), Lua, Arduino, and more
 [C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
 
+
+
+#[More Free Services](https://habrahabr.ru/post/271279/)
