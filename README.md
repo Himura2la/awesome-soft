@@ -1,4 +1,10 @@
+<p align="right"><i>
+Tell me what tools do you use<br />
+And I will tell you who you are</i></p>
+
 # Awesome Free Software
+### The ultimate guide to stop pirating
+
 
 ## Audio/Video
 
@@ -84,10 +90,10 @@ Name | Specifics | Software
 [C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
 
 
-## [More Free Services](https://habrahabr.ru/post/271279/) (russian)
+## Other Stuff
 
-## Cheatsheets
-
-* [bash](http://himura.cf/bash.html)
-* [Vim](http://himura.cf/vi.html)
-* [RegEx](http://himura.cf/regex.html) (russian)
+* [More Free Services](https://habrahabr.ru/post/271279/) (russian)
+* My Cheatsheets
+    * [bash](http://himura.cf/bash.html)
+    * [Vim](http://himura.cf/vi.html)
+    * [RegEx](http://himura.cf/regex.html) (russian)
