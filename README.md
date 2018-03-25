@@ -11,6 +11,7 @@ Name | Type | Platform | Popular Alternative
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin | VST Plugins
 [LMMS](https://lmms.io/) | DAW (All-in-One) | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
+[VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 
 
 ## Imaging and Design Tools
@@ -23,7 +24,7 @@ Name | Specifics | Platform | Popular Alternative
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate tool | Win | ACDSee
-
+[Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
 
 
 ## Plain Text Editors
@@ -36,7 +37,7 @@ Name | Specifics | Platform | Popular Alternative
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
 
 
-# Writing Tools
+## Writing Tools
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -44,6 +45,12 @@ Name | Specifics | Platform | Popular Alternative
 [Emojipedia](https://emojipedia.org/objects/) | Emoji search engine | Web | -
 [LaTeX](https://www.latex-project.org/) | Believe me, it worth learning | Lin, Mac, Win | Microsoft Office
 [LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
+
+
+## General
+Name | Specifics | Platform | Popular Alternative
+---- | --------- | -------- | -------------------
+[7-Zip] | The best archiver | Lin, Win | WinRAR
 
 
 ## Developer Tools
@@ -56,3 +63,16 @@ Name | Specifics | Platform
 [explainshell](https://www.explainshell.com/) | Help on any shell command | Web
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web
 [Trello](https://trello.com/) | Organize anything | Web
+[P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
+[DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool that looks promising | Lin, Mac, Win | KDiff3, WinMerge
+[BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Remove stuff from the Git history | Java | `git-filter-branch`
+
+
+## Cheap and Cool Hardware
+
+Name | Specifics | Software
+---- | --------- | --------
+[Omega2](https://onion.io/omega2/) | The cheapest Linux platform | OpenWRT-based Linux
+[ESP8266](https://en.wikipedia.org/wiki/ESP8266) | The cheapest MCU with Wi-Fi | [MicroPython](https://micropython.org/), Lua, Arduino, and more
+[C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
+
