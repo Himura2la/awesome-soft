@@ -20,7 +20,7 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
-[LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | CorelDRAW
+[LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate tool | Win | ACDSee
@@ -85,4 +85,4 @@ Name | Specifics | Software
 
 
 
-# [More Free Services](https://habrahabr.ru/post/271279/)
+# [More Free Services](https://habrahabr.ru/post/271279/) (russian)
