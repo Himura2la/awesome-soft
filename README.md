@@ -14,7 +14,7 @@ Name | Type | Platform | Popular Alternative
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 
 
-## Imaging and Design Tools
+## Imaging/Design
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -38,7 +38,7 @@ Name | Specifics | Platform | Popular Alternative
 [Oni](https://github.com/onivim/oni) | Neovim-based IDE | Lin, Mac, Win | Neovim-Qt
 
 
-## Writing Tools
+## Language/Writing
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -47,16 +47,6 @@ Name | Specifics | Platform | Popular Alternative
 [Glosbe](https://glosbe.com/) | Dictionary with usage examples | Web | -
 [Thesaurus.com](http://thesaurus.com) | Synonims search engine | Web | -
 [LaTeX](https://www.latex-project.org/) | Believe me, it worth learning | Lin, Mac, Win | Microsoft Office
-
-
-## General
-
-Name | Specifics | Platform | Popular Alternative
----- | --------- | -------- | -------------------
-[7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
-[Trello](https://trello.com/) | Organize anything | Web | Paper?
-[KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
-[LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
 
 
 ## Developer Tools
@@ -73,6 +63,16 @@ Name | Specifics | Platform | Popular Alternative
 [explainshell](https://www.explainshell.com/) | Help on any shell command | Web | `man`
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
+
+
+## General
+
+Name | Specifics | Platform | Popular Alternative
+---- | --------- | -------- | -------------------
+[7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
+[Trello](https://trello.com/) | Organize anything | Web | Paper?
+[KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
+[LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
 
 
 ## Cheap and Cool Hardware
