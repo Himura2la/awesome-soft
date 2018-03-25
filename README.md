@@ -50,8 +50,8 @@ Name | Specifics | Platform | Popular Alternative
 ## General
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
-[7-Zip] | The best archiver | Lin, Win | WinRAR
-
+[7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
+[KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 
 ## Developer Tools
 
