@@ -84,5 +84,8 @@ Name | Specifics | Software
 [C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
 
 
+## [More Free Services](https://habrahabr.ru/post/271279/) (russian)
 
-# [More Free Services](https://habrahabr.ru/post/271279/) (russian)
+## [My bash Cheatsheet](http://himura.cf/bash.html)
+## [My Vim Cheatsheet](http://himura.cf/vi.html)
+## [Great RegEx Cheatsheet](http://himura.cf/regex.html)
