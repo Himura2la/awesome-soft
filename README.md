@@ -47,7 +47,6 @@ Name | Specifics | Platform | Popular Alternative
 [Glosbe](https://glosbe.com/) | Dictionary with usage examples | Web | -
 [Thesaurus.com](http://thesaurus.com) | Synonims search engine | Web | -
 [LaTeX](https://www.latex-project.org/) | Believe me, it worth learning | Lin, Mac, Win | Microsoft Office
-[LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
 
 
 ## General
@@ -57,6 +56,7 @@ Name | Specifics | Platform | Popular Alternative
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
+[LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
 
 
 ## Developer Tools
