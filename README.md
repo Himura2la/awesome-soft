@@ -35,6 +35,7 @@ Name | Specifics | Platform | Popular Alternative
 [AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | Win | `notepad.exe`
 [Neovim](https://neovim.io/) | It seems hard unless you try ([my .vimrc](https://github.com/Himura2la/nvim-config)) | Lin, Mac, Win | Vim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
+[Oni](https://github.com/onivim/oni) | Neovim-based IDE | Lin, Mac, Win | Neovim-Qt
 
 
 ## Writing Tools
@@ -51,22 +52,23 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
+[Trello](https://trello.com/) | Organize anything | Web | Paper?
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 
 ## Developer Tools
 
-Name | Specifics | Platform
----- | --------- | --------
-[Regex101](https://regex101.com/) | Regular expressions debugger | Web
-[tig](http://jonas.nitro.dk/tig/) | CLI GUI for Git | Lin, Mac (CLI)
-[GitKraken](https://www.gitkraken.com/) | GUI for Git | Lin, Mac, Win
-[explainshell](https://www.explainshell.com/) | Help on any shell command | Web
-[Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web
-[Trello](https://trello.com/) | Organize anything | Web
+Name | Specifics | Platform | Popular Alternative
+---- | --------- | -------- | -------------------
+[Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
+[GitLab](https://gitlab.com) | Raise your own internal GitHub! | Web | GitHub
+[tig](http://jonas.nitro.dk/tig/) | CLI GUI for Git | Lin, Mac (CLI) | -
+[GitKraken](https://www.gitkraken.com/) | GUI for Git | Lin, Mac, Win | Git Extensions
 [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
 [DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool that looks promising | Lin, Mac, Win | KDiff3, WinMerge
 [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Remove stuff from the Git history | Java | `git-filter-branch`
-
+[explainshell](https://www.explainshell.com/) | Help on any shell command | Web | `man`
+[Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
+[DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
 
 ## Cheap and Cool Hardware
 
