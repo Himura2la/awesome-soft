@@ -86,6 +86,8 @@ Name | Specifics | Software
 
 ## [More Free Services](https://habrahabr.ru/post/271279/) (russian)
 
-## [My bash Cheatsheet](http://himura.cf/bash.html)
-## [My Vim Cheatsheet](http://himura.cf/vi.html)
-## [Great RegEx Cheatsheet](http://himura.cf/regex.html)
+## Cheatsheets
+
+* [bash](http://himura.cf/bash.html)
+* [Vim](http://himura.cf/vi.html)
+* [RegEx](http://himura.cf/regex.html) (russian)
