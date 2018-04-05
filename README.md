@@ -41,7 +41,7 @@ Name | Specifics | Platform | Popular Alternative
 [AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | **Win** | `notepad.exe`
 [Neovim](https://neovim.io/) | It seems hard unless you try ([my .vimrc](https://github.com/Himura2la/nvim-config)) | Lin, Mac, Win | Vim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
-[Oni](https://github.com/onivim/oni) | Neovim-based IDE | Lin, Mac, Win | Neovim-Qt
+[Oni](https://github.com/onivim/oni) | Neovim+Electron | Lin, Mac, Win | Neovim-Qt
 
 
 ## Language/Writing
