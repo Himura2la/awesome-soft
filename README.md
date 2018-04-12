@@ -62,6 +62,7 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
 [GitLab](https://gitlab.com) | Raise your own internal GitHub! | Web | GitHub
+[AppVeyor](https://www.appveyor.com/) | Free CI with artifacts storage | Builds on Win, [Lin](https://www.appveyor.com/docs/getting-started-with-appveyor-for-linux/)
 [tig](http://jonas.nitro.dk/tig/) | CLI GUI for Git | Lin, Mac (CLI) | -
 [GitKraken](https://www.gitkraken.com/) | GUI for Git | Lin, Mac, Win | Git Extensions
 [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
