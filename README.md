@@ -77,9 +77,12 @@ Name | Specifics | Platform | Popular Alternative
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
+[Tixati](https://www.tixati.com) | Awesome no-ad torrent client | Win | μTorrent
+[KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
-[KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
+
+
 
 
 ## Cheap and Cool Hardware
