@@ -18,6 +18,7 @@ Name | Type | Platform | Popular Alternative
 [LMMS](https://lmms.io/) | DAW (All-in-One) | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
+[OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
 
 
 ## Imaging/Design
