@@ -54,9 +54,9 @@
 
 * [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) -- The photo album done right
 * [Listen!](https://play.google.com/store/apps/details?id=ru.litres.android.audio) -- Audiobooks if you want to pay
-* [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook)) -- Audiobooks if you don't want to pay
+* [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) -- Audiobooks if you don't want to pay
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) -- Anime player \^_\^
-* [Аэростат](https://play.google.com/store/apps/details?id=ru.mobileup.aerostat) -- Потрясающая передача от БГ о музыке, философии и тайнах нашего мира
+* [Аэростат](https://play.google.com/store/apps/details?id=ru.mobileup.aerostat) -- Потрясающая передача от БГ о музыке, философии и тайнах нашего мира (Russian only)
 
 ### Travel
 
