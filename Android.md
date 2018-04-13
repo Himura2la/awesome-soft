@@ -13,7 +13,8 @@
 * [Yandex.Weather](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin) -- I like the interface. The prediction is never perfect.
 * [Google Camera](https://www.apkmirror.com/apk/google-inc/camera/) -- I wish I could use it instead of [this](https://www.apkmirror.com/apk/hmd-global/nokia-camera-new/). Open Camera is even worse IMHO.
 * [Google Phone](https://www.apkmirror.com/apk/google-inc/google-phone/) -- Spam calls detection rocks!
-
+* [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en) (widget)
+* [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) (widget)
 
 #### Music (folder)
 
@@ -31,7 +32,7 @@
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) -- The Tor client
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) -- Can use the database from a cloud
 * [OpenKeychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) -- Learn the manual encryption until it's too late
-* [QPython](https://play.google.com/store/apps/details?id=org.qpython.qpy) -- Mobile offilne automation powers
+* [QPython](https://play.google.com/store/apps/details?id=org.qpython.qpy), [C4droid](https://play.google.com/store/apps/details?id=com.n0n3m4.droidc) -- Mobile offilne automation powers
 * [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android) -- RDP Client
 * [VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android) -- VNC Client
 * [TeamViewer](https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile) -- Convenient remote desktop client
@@ -43,7 +44,9 @@
 * [Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan)
 * [Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) -- See all the traffic of your apps
 * [Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer) -- See the Wi-Fi
-* [Cell Signal Monitor](https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring) -- See the GSM
+* [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing) -- Port scanner
+* [Netmonitor](https://play.google.com/store/apps/details?id=com.parizene.netmonitor) -- See the GSM
+* [GPS Test](https://play.google.com/store/apps/details?id=com.chartcross.gpstest) -- Guess what to see?
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) -- Automate everything and drain your battery. Really everything.
 * [YJTerm](https://play.google.com/store/apps/details?id=kr.yjsoft.cyk.bob2) -- A Serial Terminal for a USB-UART converter
 * [SQLite Editor Master](https://play.google.com/store/apps/details?id=com.dundastech.sqlitemasterlight) -- Acquire data from an SQLite DB
@@ -60,6 +63,8 @@
 * [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub) -- U need a Delivery promo code?
 * [Stechkin](https://play.google.com/store/apps/details?id=com.loyaltyplant.partner.stechkin) -- The free cocktail is waiting for you in Tula. No strings attached, seriously.
 * [Wallet](https://play.google.com/store/apps/details?id=ru.cardsmobile.mw3) -- My loyalty cards wallet. Supports storing Russian receipts.
+* [Smart Tools](https://play.google.com/store/apps/details?id=kr.aboy.tools) -- Some tools to survive in offline
+* [Star Chart](https://play.google.com/store/apps/details?id=com.escapistgames.starchart) -- Explore the Sky
 
 ### Media 
 
@@ -75,6 +80,7 @@
 
 * [BlaBlaCar](https://play.google.com/store/apps/details?id=com.comuto) -- The best way to get to another city (after hitchhiking)
 * [Yandex.Taxi](https://play.google.com/store/apps/details?id=ru.yandex.taxi) -- The last chance to get anywhere. Even to another city.
+* [Maxim: order a taxi](https://play.google.com/store/apps/details?id=com.taxsee.taxsee) -- The very last chance for a lift. Expensive. Cash only. But TONS of cars.
 * [Couchsurfing](https://play.google.com/store/apps/details?id=com.couchsurfing.mobile.android) -- The best way to spend night in another city
 * [Yandex.Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps) -- The best complete map of Russia
 * [РЖД](https://play.google.com/store/apps/details?id=ru.rzd.pass) -- The only thing you need to get to a Russian train
@@ -89,12 +95,14 @@
 * [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) -- Google Authenticator alternative with notifications from Microsoft services
 * [Angle](https://play.google.com/store/apps/details?id=polohalo.ua.angle) -- In case your accelerometer break (like mine on Nexus 7)
 * [Ada](https://play.google.com/store/apps/details?id=com.ada.app) -- Enter symptoms, get a predicted diagnose (but you should visit a human doctor anyway)
+* [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm&hl=en) -- I hope you never need it...
+* [DrawExpress Diagram](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
 
 ### Watch
 
 * [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it...
 * [Reader for Android Wear](https://play.google.com/store/apps/details?id=com.smartmadsoft.wear.reader) -- Read plain text on your watch
-
+* [Bearing](https://play.google.com/store/apps/details?id=com.runar.wearcompass) -- Compass
 
 ### Alternatives
 
