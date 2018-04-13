@@ -101,7 +101,7 @@
 ### Watch
 
 * [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it...
-* [Reader for Android Wear](https://play.google.com/store/apps/details?id=com.smartmadsoft.wear.reader) -- Read plain text on your watch
+* [Reader for Android Wear](https://play.google.com/store/apps/details?id=com.smartmadsoft.wear.reader) -- Read plain text on your watch (great for academic cheatsheets)
 * [Bearing](https://play.google.com/store/apps/details?id=com.runar.wearcompass) -- Compass
 
 ### Alternatives
