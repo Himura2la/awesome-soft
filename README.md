@@ -84,8 +84,6 @@ Name | Specifics | Platform | Popular Alternative
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
 
 
-
-
 ## Cheap and Cool Hardware
 
 Name | Specifics | Software
@@ -94,11 +92,13 @@ Name | Specifics | Software
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266) | The cheapest MCU with Wi-Fi | [MicroPython](https://micropython.org/), Lua, Arduino, and more
 [C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
 
+## [Apps I Use On The Go](Android.md)
 
 ## Other Stuff
 
-* [More Free Services](https://habrahabr.ru/post/271279/) (russian)
+* [More Free Services](https://habrahabr.ru/post/271279/) (Russian)
 * My Cheatsheets
     * [bash](http://himura.cf/bash.html)
     * [Vim](http://himura.cf/vi.html)
-    * [RegEx](http://himura.cf/regex.html) (russian)
+    * [RegEx](http://himura.cf/regex.html) (Russian)
+
