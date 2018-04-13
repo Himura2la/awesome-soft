@@ -41,6 +41,17 @@
 * [Ping Monitor](https://play.google.com/store/apps/details?id=bg.softel.pingmonitor) -- Monitor the connection in real time
 * [Flud](https://play.google.com/store/apps/details?id=com.delphicoder.flud) -- Torrent client
 * [Wake On Lan](https://play.google.com/store/apps/details?id=co.uk.mrwebb.wakeonlan)
+* [Packet Capture](https://play.google.com/store/apps/details?id=app.greyshirts.sslcapture) -- See all the traffic of your apps
+* [Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer) -- See the Wi-Fi
+* [Cell Signal Monitor](https://play.google.com/store/apps/details?id=com.signalmonitoring.gsmsignalmonitoring) -- See the GSM
+* [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) -- Automate everything and drain your battery. Really everything.
+* [YJTerm](https://play.google.com/store/apps/details?id=kr.yjsoft.cyk.bob2) -- A Serial Terminal for a USB-UART converter
+* [SQLite Editor Master](https://play.google.com/store/apps/details?id=com.dundastech.sqlitemasterlight) -- Acquire data from an SQLite DB
+* [Trepn Profiler](https://play.google.com/store/apps/details?id=com.quicinc.trepn) -- Monitor apps activity
+* [WiFi ADB](https://play.google.com/store/apps/details?id=com.ttxapps.wifiadb) -- Yes, it's possible
+* [External NFC](https://play.google.com/store/apps/details?id=eu.dedb.nfc.service) -- Even this is possible!
+
+
 
 ### Lifehacks
 
@@ -57,6 +68,8 @@
 * [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) -- Audiobooks if you don't want to pay
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) -- Anime player \^_\^
 * [Аэростат](https://play.google.com/store/apps/details?id=ru.mobileup.aerostat) -- Потрясающая передача от БГ о музыке, философии и тайнах нашего мира (Russian only)
+* [Лекторий МФТИ](https://play.google.com/store/apps/details?id=ru.mipt.mlectoriy) -- Russian only
+* [RecForge II](https://play.google.com/store/apps/details?id=dje073.android.modernrecforge) -- The recorder
 
 ### Travel
 
@@ -64,16 +77,28 @@
 * [Yandex.Taxi](https://play.google.com/store/apps/details?id=ru.yandex.taxi) -- The last chance to get anywhere. Even to another city.
 * [Couchsurfing](https://play.google.com/store/apps/details?id=com.couchsurfing.mobile.android) -- The best way to spend night in another city
 * [Yandex.Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps) -- The best complete map of Russia
+* [РЖД](https://play.google.com/store/apps/details?id=ru.rzd.pass) -- The only thing you need to get to a Russian train
 
 ### Uncategorized
 
 * [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) -- Skype is not so bad with recent updates, but I used to hate it
 * [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop.pro) -- Unfortunately, you need a Pro to avoid spam. But it worth.
 * [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
-* [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it.
+* [Another World](https://play.google.com/store/apps/details?id=com.dotemu.anotherworld) -- The one and only game here. Think about it.
+* [Circuit Jam](https://play.google.com/store/apps/details?id=com.circuitjam) -- OK, not the only. But this one is educational!
+* [Microsoft Authenticator](https://play.google.com/store/apps/details?id=com.azure.authenticator) -- Google Authenticator alternative with notifications from Microsoft services
+* [Angle](https://play.google.com/store/apps/details?id=polohalo.ua.angle) -- In case your accelerometer break (like mine on Nexus 7)
+* [Ada](https://play.google.com/store/apps/details?id=com.ada.app) -- Enter symptoms, get a predicted diagnose (but you should visit a human doctor anyway)
+
+### Watch
+
+* [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it...
+* [Reader for Android Wear](https://play.google.com/store/apps/details?id=com.smartmadsoft.wear.reader) -- Read plain text on your watch
+
 
 ### Alternatives
 
 * [VK Black](https://play.google.com/store/apps/details?id=com.amberfog.reader) -- Another not bad VK client that I discovered when Kate had problems with News
 * [Sound Analyser PRO](https://play.google.com/store/apps/details?id=com.zephyr.soundAnalyserPRO) -- Great fast spectrum analyser, but its interface is a bit pragmatiс
+* [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc)
 
