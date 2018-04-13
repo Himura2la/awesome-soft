@@ -69,8 +69,8 @@
 
 * [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) -- Skype is not so bad with recent updates, but I used to hate it
 * [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop.pro) -- Unfortunately, you need a Pro to avoid spam. But it worth.
-* [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate) -- No need to introduce this one, I hole.
-* [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock)
+* [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
+* [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it.
 
 ### Alternatives
 
