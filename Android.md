@@ -10,9 +10,9 @@
 * [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) -- The main app on any device
 * [Inbox](https://play.google.com/store/apps/details?id=com.google.android.apps.inbox) -- My mail is here
 * [2GIS](https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile) -- Lose your way in no Russian city
-* [Yandex.Weather](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin) -- I like the interface. The prediction is never perfect.
 * [Google Camera](https://www.apkmirror.com/apk/google-inc/camera/) -- I wish I could use it instead of [this](https://www.apkmirror.com/apk/hmd-global/nokia-camera-new/). Open Camera is even worse IMHO.
 * [Google Phone](https://www.apkmirror.com/apk/google-inc/google-phone/) -- Spam calls detection rocks!
+* [Yandex.Weather](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin) (widget)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en) (widget)
 * [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) (widget)
 
@@ -46,7 +46,7 @@
 * [Wifi Analyzer](https://play.google.com/store/apps/details?id=com.farproc.wifi.analyzer) -- See the Wi-Fi
 * [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing) -- Port scanner
 * [Netmonitor](https://play.google.com/store/apps/details?id=com.parizene.netmonitor) -- See the GSM
-* [GPS Test](https://play.google.com/store/apps/details?id=com.chartcross.gpstest) -- Guess what to see?
+* [GPS Test](https://play.google.com/store/apps/details?id=com.chartcross.gpstest) -- See guess what
 * [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) -- Automate everything and drain your battery. Really everything.
 * [YJTerm](https://play.google.com/store/apps/details?id=kr.yjsoft.cyk.bob2) -- A Serial Terminal for a USB-UART converter
 * [SQLite Editor Master](https://play.google.com/store/apps/details?id=com.dundastech.sqlitemasterlight) -- Acquire data from an SQLite DB
@@ -60,10 +60,10 @@
 
 * [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) -- The way I pay EVERYWHERE. It works great. Make sure your next phone has NFC.
 * [Burger King](https://play.google.com/store/apps/details?id=ru.burgerking) -- Stop waiting for your burger in a queue
-* [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub) -- U need a Delivery promo code?
+* [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub) -- Do u need a Derivery promo code? Det me give u de Derivery promo code.
 * [Stechkin](https://play.google.com/store/apps/details?id=com.loyaltyplant.partner.stechkin) -- The free cocktail is waiting for you in Tula. No strings attached, seriously.
 * [Wallet](https://play.google.com/store/apps/details?id=ru.cardsmobile.mw3) -- My loyalty cards wallet. Supports storing Russian receipts.
-* [Smart Tools](https://play.google.com/store/apps/details?id=kr.aboy.tools) -- Some tools to survive in offline
+* [Smart Tools](https://play.google.com/store/apps/details?id=kr.aboy.tools) -- Some tools to survive in the offline
 * [Star Chart](https://play.google.com/store/apps/details?id=com.escapistgames.starchart) -- Explore the Sky
 
 ### Media 
@@ -72,18 +72,18 @@
 * [Listen!](https://play.google.com/store/apps/details?id=ru.litres.android.audio) -- Audiobooks if you want to pay
 * [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) -- Audiobooks if you don't want to pay
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) -- Anime player \^_\^
+* [RecForge II](https://play.google.com/store/apps/details?id=dje073.android.modernrecforge) -- The audio recorder
 * [Аэростат](https://play.google.com/store/apps/details?id=ru.mobileup.aerostat) -- Потрясающая передача от БГ о музыке, философии и тайнах нашего мира (Russian only)
 * [Лекторий МФТИ](https://play.google.com/store/apps/details?id=ru.mipt.mlectoriy) -- Russian only
-* [RecForge II](https://play.google.com/store/apps/details?id=dje073.android.modernrecforge) -- The recorder
 
 ### Travel
 
-* [BlaBlaCar](https://play.google.com/store/apps/details?id=com.comuto) -- The best way to get to another city (after hitchhiking)
-* [Yandex.Taxi](https://play.google.com/store/apps/details?id=ru.yandex.taxi) -- The last chance to get anywhere. Even to another city.
-* [Maxim: order a taxi](https://play.google.com/store/apps/details?id=com.taxsee.taxsee) -- The very last chance for a lift. Expensive. Cash only. But TONS of cars.
+* [BlaBlaCar](https://play.google.com/store/apps/details?id=com.comuto) -- The best way to get to another city (if you can't hitchhike for some reason)
+* [РЖД](https://play.google.com/store/apps/details?id=ru.rzd.pass) -- The only thing you need to get to a train in Russia
+* [Yandex.Taxi](https://play.google.com/store/apps/details?id=ru.yandex.taxi) -- The last chance to get anywhere. Even to another city (it can be even cheaper than railways for near cities and 3-4 guys).
+* [Maxim: order a taxi](https://play.google.com/store/apps/details?id=com.taxsee.taxsee) -- The very last chance for a lift within a city. Expensive. Cash only. But TONS of cars everywhere.
 * [Couchsurfing](https://play.google.com/store/apps/details?id=com.couchsurfing.mobile.android) -- The best way to spend night in another city
 * [Yandex.Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps) -- The best complete map of Russia
-* [РЖД](https://play.google.com/store/apps/details?id=ru.rzd.pass) -- The only thing you need to get to a Russian train
 
 ### Uncategorized
 
