@@ -98,6 +98,12 @@
 * [Find My Device](https://play.google.com/store/apps/details?id=com.google.android.apps.adm&hl=en) -- I hope you never need it...
 * [DrawExpress Diagram](https://play.google.com/store/apps/details?id=com.drawexpress.lite)
 
+### Keyboards
+
+* [Gboard](https://play.google.com/store/apps/details?id=com.google.android.inputmethod.latin) -- Just works and looks awesome
+* [Multiling O Keyboard](https://play.google.com/store/apps/details?id=kl.ime.oh) -- Lightweight and fully customizable
+
+
 ### Watch
 
 * [Wear Phone Lock](https://play.google.com/store/apps/details?id=net.ddns.axiiim.wearphonelock) -- I hope you never need it...
