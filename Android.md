@@ -58,7 +58,7 @@
 #### [F-Droid](https://f-droid.org)
 
 * [FastHub-Libre](https://f-droid.org/app/com.fastaccess.github.libre) -- A GitHub client
-* [KeePass DX](https://f-droid.org/app/com.kunzisoft.keepass.libre) - A KeePass client with fingerprints
+* [KeePass DX](https://f-droid.org/app/com.kunzisoft.keepass.libre) -- A KeePass client with fingerprints
 * [OpenKeychain](https://f-droid.org/app/org.sufficientlysecure.keychain)
 * [primitive ftpd](https://f-droid.org/app/org.primftpd)
 * [Simple File Manager](https://f-droid.org/app/com.simplemobiletools.filemanager)
