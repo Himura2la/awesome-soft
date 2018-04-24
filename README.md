@@ -5,8 +5,6 @@ And I will tell you who you are</i></p>
 # Awesome Free Software
 ### The ultimate guide to stop pirating
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
 ## Audio/Video
 
 Name | Type | Platform | Popular Alternative
@@ -96,7 +94,7 @@ Name | Specifics | Software
 ## [Apps I Use On The Go](Android.md)
 
 ## Other Stuff
-
+* [More ![Awesome](https://awesome.re/badge-flat.svg) Software](https://awesome.re)
 * [More Free Services](https://habrahabr.ru/post/271279/) (Russian)
 * My Cheatsheets
     * [bash](http://himura.cf/bash.html)
