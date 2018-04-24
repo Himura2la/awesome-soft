@@ -100,9 +100,3 @@ Name | Specifics | Software
     * [bash](http://himura.cf/bash.html)
     * [Vim](http://himura.cf/vi.html)
     * [RegEx](http://himura.cf/regex.html) (Russian)
-
-
-
----
-
-[Inspired by](https://github.com/jaywcjlove/awesome-mac)
