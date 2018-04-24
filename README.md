@@ -102,3 +102,8 @@ Name | Specifics | Software
     * [Vim](http://himura.cf/vi.html)
     * [RegEx](http://himura.cf/regex.html) (Russian)
 
+
+
+---
+
+[Inspired by](https://github.com/jaywcjlove/awesome-mac)
