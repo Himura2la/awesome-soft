@@ -5,6 +5,7 @@ And I will tell you who you are</i></p>
 # Awesome Free Software
 ### The ultimate guide to stop pirating
 
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 ## Audio/Video
 
