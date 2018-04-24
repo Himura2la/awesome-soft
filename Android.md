@@ -55,6 +55,15 @@
 * [External NFC](https://play.google.com/store/apps/details?id=eu.dedb.nfc.service) -- Even this is possible!
 
 
+#### [F-Droid](https://f-droid.org)
+
+* [FastHub-Libre](https://f-droid.org/app/com.fastaccess.github.libre) -- A GitHub client
+* [KeePass DX](https://f-droid.org/app/com.kunzisoft.keepass.libre) - A KeePass client with fingerprints
+* [OpenKeychain](https://f-droid.org/app/org.sufficientlysecure.keychain)
+* [primitive ftpd](https://f-droid.org/app/org.primftpd)
+* [Simple File Manager](https://f-droid.org/app/com.simplemobiletools.filemanager)
+* [Telegram](https://f-droid.org/app/org.telegram.messenger)
+
 
 ### Lifehacks
 
@@ -85,10 +94,10 @@
 * [Couchsurfing](https://play.google.com/store/apps/details?id=com.couchsurfing.mobile.android) -- The best way to spend night in another city
 * [Yandex.Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps) -- The best complete map of Russia
 
+
 ### Uncategorized
 
 * [Google Duo](https://play.google.com/store/apps/details?id=com.google.android.apps.tachyon) -- Skype is not so bad with recent updates, but I used to hate it
-* [ES File Explorer](https://play.google.com/store/apps/details?id=com.estrongs.android.pop.pro) -- Unfortunately, you need a Pro to avoid spam. But it worth.
 * [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [Another World](https://play.google.com/store/apps/details?id=com.dotemu.anotherworld) -- The one and only game here. Think about it.
 * [Circuit Jam](https://play.google.com/store/apps/details?id=com.circuitjam) -- OK, not the only. But this one is educational!
