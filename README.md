@@ -11,6 +11,7 @@ Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
+[Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | Lightweight Video Editor | Lin, Mac | -
 [Ardour](https://ardour.org/) | DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
