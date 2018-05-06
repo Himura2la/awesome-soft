@@ -20,11 +20,12 @@ Name | Type | Platform | Popular Alternative
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
 
 
-## Imaging/Design
+## Imaging/Design/Foto
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
+[darktable](https://www.darktable.org/) | Photo organizer and editor | Lin, Mac, Win | Lightroom
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
 [LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
