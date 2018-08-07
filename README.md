@@ -85,6 +85,7 @@ Name | Specifics | Platform | Popular Alternative
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
+[WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win**
 
 
 ## Cheap and Cool Hardware
