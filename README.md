@@ -19,6 +19,7 @@ Name | Type | Platform | Popular Alternative
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
+[HandBrake](https://handbrake.fr) | The video converter | Lin, Mac, Win | Tons of ugly and greedy malware
 
 
 ## Imaging/Design/Foto
