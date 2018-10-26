@@ -12,14 +12,14 @@ Name | Type | Platform | Popular Alternative
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
 [VLMC](https://www.videolan.org/vlmc/), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | FOSS non-linear video editors | Lin, Mac, Win | Movie Maker
-[Ardour](https://ardour.org/) | DAW | Lin, Mac, Win | Audition in a multi-track mode
+[Ardour](https://ardour.org/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
-[LMMS](https://lmms.io/) | DAW (All-in-One) | Lin, Mac, Win | FL Studio
+[LMMS](https://lmms.io/) | All-in-One DAW | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
-[HandBrake](https://handbrake.fr) | The video converter | Lin, Mac, Win | Tons of ugly and greedy malware
+[HandBrake](https://handbrake.fr) | The video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 
 
 ## Imaging/Design/Foto
