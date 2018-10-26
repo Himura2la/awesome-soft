@@ -105,7 +105,4 @@ Name | Specifics | Software
 ## Other Stuff
 * [More ![Awesome](https://awesome.re/badge-flat.svg) Software](https://awesome.re)
 * [More Free Services](https://habrahabr.ru/post/271279/) (Russian)
-* My Cheatsheets
-    * [bash](http://himura.cf/bash.html)
-    * [Vim](http://himura.cf/vi.html)
-    * [RegEx](http://himura.cf/regex.html) (Russian)
+* [My Cheatsheets](http://himura.cf)
