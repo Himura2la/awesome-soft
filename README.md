@@ -64,15 +64,18 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GCC](https://www.gnu.org/software/gcc/) | The compiler that changed the industry | Any | Visual Studio, LLVM
+[KiCad](http://kicad-pcb.org/) | The EDA | Lin, Mac, Win | P-CAD, Altium Designer, EAGLE, DipTrace
 [Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
 [GitLab](https://gitlab.com) | Raise your own internal GitHub! | Web | GitHub
 [AppVeyor](https://www.appveyor.com/) | Free CI with artifacts storage | Builds on Win, [Lin](https://www.appveyor.com/docs/getting-started-with-appveyor-for-linux/)
-[tig](http://jonas.nitro.dk/tig/) | CLI GUI for Git | Lin, Mac (CLI) | -
-[GitKraken](https://www.gitkraken.com/) | GUI for Git | Lin, Mac, Win | Git Extensions
+[tig](http://jonas.nitro.dk/tig/) | Text-based UI for Git | Lin, Mac (CLI) | -
+[Fork](https://git-fork.com/) | GUI for Git | **Mac, Win** | Git Extensions, SourceTree
+[GitKraken](https://www.gitkraken.com/) | GUI for Git (free for home and opensource) | Lin, Mac, Win | Git Extensions, SourceTree
 [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
 [DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool that looks promising | Lin, Mac, Win | KDiff3, WinMerge
 [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Clean a Git history from your passwords and tokens | Java | `git-filter-branch`
-[explainshell](https://www.explainshell.com/) | Help on any shell command | Web | `man`
+[tldr](https://tldr.sh/) | `man` in a nutshell | Web, CLI | `man`
+[explainshell](https://www.explainshell.com/) | Explanation to any shell command | Web | `man`
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
 [PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | SystemD?
