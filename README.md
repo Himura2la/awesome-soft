@@ -11,11 +11,11 @@ Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
-[VLMC](https://www.videolan.org/vlmc/), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | FOSS non-linear video editors | Lin, Mac, Win | Movie Maker
+[Shotcut](https://shotcut.org), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | FOSS non-linear video editors | Lin, Mac, Win | Movie Maker
 [Ardour](https://ardour.org/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
-[LMMS](https://lmms.io/) | All-in-One DAW | Lin, Mac, Win | FL Studio
+[LMMS](https://lmms.io/), [BITWING STUDIO](https://bitwig.com/) | Music creation software | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
@@ -28,12 +28,14 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
 [darktable](https://www.darktable.org/) | Photo organizer and editor | Lin, Mac, Win | Lightroom
+[Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
+[Gravit Designer](https://www.designer.io/) | Lin, Mac, Win, Web | Adobe Illustrator
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
-[LibreOffice Draw](https://libreoffice.org/) | Vector editor for technical drawings | Lin, Mac, Win | CorelDRAW
+[LibreOffice Draw](https://libreoffice.org/), [Karbon](https://www.kde.org/applications/graphics/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee
-[Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
+
 
 
 ## Plain Text Editors
@@ -64,7 +66,6 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GCC](https://www.gnu.org/software/gcc/) | The compiler that changed the industry | Any | Visual Studio, LLVM
-[KiCad](http://kicad-pcb.org/) | The EDA | Lin, Mac, Win | P-CAD, Altium Designer, EAGLE, DipTrace
 [Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
 [GitLab](https://gitlab.com) | Raise your own internal GitHub! | Web | GitHub
 [AppVeyor](https://www.appveyor.com/) | Free CI with artifacts storage | Builds on Win, [Lin](https://www.appveyor.com/docs/getting-started-with-appveyor-for-linux/)
@@ -78,10 +79,21 @@ Name | Specifics | Platform | Popular Alternative
 [explainshell](https://www.explainshell.com/) | Explanation to any shell command | Web | `man`
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
-[PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | SystemD?
-[MiniTool Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
+[PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | Maybe SystemD or Docker
+[Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 
-## General
+
+## Engineering
+
+Name | Specifics | Platform | Popular Alternative
+---- | --------- | -------- | -------------------
+[FreeCAD](https://www.freecadweb.org/) | The 3D CAD | Lin, Mac, Win | SolidWorks
+[BRL‑CAD](https://brlcad.org/) | The oldest 3D CAD in the world. Extremely hard. Don't try. | Lin, Mac, Win | -
+[LibreCAD](https://librecad.org/), [QCAD](https://www.qcad.org/) | The 2D CADs | Lin, Mac, Win | AutoCAD
+[KiCad](http://kicad-pcb.org/) | The EDA | Lin, Mac, Win | P-CAD, Altium Designer, EAGLE, DipTrace
+
+
+## Utilites
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -92,7 +104,7 @@ Name | Specifics | Platform | Popular Alternative
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win**
 
 
-## Cheap and Cool Hardware
+## Cool Hardware
 
 Name | Specifics | Software
 ---- | --------- | --------
