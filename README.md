@@ -80,7 +80,6 @@ Name | Specifics | Platform | Popular Alternative
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
 [PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | Maybe SystemD or Docker
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
-[FreeFileSync](https://freefilesync.org) | Nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
 
 ## Engineering
 
@@ -97,6 +96,7 @@ Name | Specifics | Platform | Popular Alternative
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
+[FreeFileSync](https://freefilesync.org) | Nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
 [Tixati](https://www.tixati.com) | Awesome no-ad torrent client | Lin, Win | μTorrent
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
