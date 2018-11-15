@@ -80,7 +80,7 @@ Name | Specifics | Platform | Popular Alternative
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
 [PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | Maybe SystemD or Docker
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
-[FreeFileSync](https://freefilesync.org) | The nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
+[FreeFileSync](https://freefilesync.org) | Nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
 
 ## Engineering
 
