@@ -8,17 +8,18 @@
 * [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) -- The IM done absolutely right in every aspect
 * [Instagram](https://play.google.com/store/apps/details?id=com.instagram.android) -- The worst enemy of my DSLR camera
 * [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) -- The main app on any device
-* [Inbox](https://play.google.com/store/apps/details?id=com.google.android.apps.inbox) -- My mail is here
+* [Gmail](https://play.google.com/store/apps/details?id=com.google.android.gm)
 * [2GIS](https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile) -- Lose your way in no Russian city
-* [Google Camera](https://www.apkmirror.com/apk/google-inc/camera/) -- I wish I could use it instead of [this](https://www.apkmirror.com/apk/hmd-global/nokia-camera-new/). Open Camera is even worse IMHO.
+* [Google Camera](https://www.apkmirror.com/apk/google-inc/camera/) -- I wish I could use. But I don't have Google Pixel.
 * [Google Phone](https://www.apkmirror.com/apk/google-inc/google-phone/) -- Spam calls detection rocks!
-* [Yandex.Weather](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin) (widget)
+* [Yandex.Weather](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin) -- Bad forecasts, but awesome UI.
+* [FastHub](https://play.google.com/store/apps/details?id=com.fastaccess.github) -- A GitHub client
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep&hl=en) (widget)
 * [Google Calendar](https://play.google.com/store/apps/details?id=com.google.android.calendar) (widget)
 
 #### Music (folder)
 
-* [Yandex.Music](https://play.google.com/store/apps/details?id=ru.yandex.music) -- The streaming service I happily pay for. They perfectly know what music am I like
+* [Yandex.Music](https://play.google.com/store/apps/details?id=ru.yandex.music) -- The streaming service I happily pay for. They perfectly know which music am I like
 * [Google Play Music](https://play.google.com/store/apps/details?id=com.google.android.music) -- I buy albums here if I like something very much.
 * [Shazam](https://play.google.com/store/apps/details?id=com.shazam.android) -- You never know when you urgently need it next time
 
@@ -28,10 +29,10 @@
 * [DroidVim](https://play.google.com/store/apps/details?id=com.droidvim) -- A great Vim port ([Vim Master](https://play.google.com/store/apps/details?id=develop.example.beta1139.vimmaster) and [Vim Quick Reference](https://play.google.com/store/apps/details?id=com.llerrad.vimreference) are recommended)
 * [JuiceSSH](https://play.google.com/store/apps/details?id=com.sonelli.juicessh) -- A great SSH client
 * [Kali Linux NetHunter](https://www.kali.org/kali-linux-nethunter/) -- You don't need a notebook anymore. It rocks. I only wish it supports more Wi-Fi dongles...
-* [Ki4a](https://play.google.com/store/apps/details?id=com.staf621.ki4a) -- System-wide SSH Tunnel
+* [Ki4a](https://play.google.com/store/apps/details?id=com.staf621.ki4a) -- System-wide SSH Tunnels
 * [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android) -- The Tor client
 * [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android) -- Can use the database from a cloud
-* [OpenKeychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) -- Learn the manual encryption until it's too late
+* [OpenKeychain](https://play.google.com/store/apps/details?id=org.sufficientlysecure.keychain) -- Learn hou to use the manual encryption before you require it
 * [QPython](https://play.google.com/store/apps/details?id=org.qpython.qpy), [C4droid](https://play.google.com/store/apps/details?id=com.n0n3m4.droidc) -- Mobile offilne automation powers
 * [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.android) -- RDP Client
 * [VNC Viewer](https://play.google.com/store/apps/details?id=com.realvnc.viewer.android) -- VNC Client
