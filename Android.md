@@ -83,6 +83,7 @@
 * [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) -- Audiobooks if you don't want to pay
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) -- Anime player \^_\^
 * [RecForge II](https://play.google.com/store/apps/details?id=dje073.android.modernrecforge) -- The audio recorder
+* [Easy Voice Recorder](https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder) -- The voice recorder
 * [Аэростат](https://play.google.com/store/apps/details?id=ru.mobileup.aerostat) -- Потрясающая передача от БГ о музыке, философии и тайнах нашего мира (Russian only)
 * [Лекторий МФТИ](https://play.google.com/store/apps/details?id=ru.mipt.mlectoriy) -- Russian only
 
