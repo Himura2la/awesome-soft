@@ -2,7 +2,7 @@
 Tools matter</i></p>
 
 # Awesome Free Software
-### The ultimate guide to stop pirating
+### The ultimate guide to quit pirating
 
 ## Audio/Video
 
@@ -10,7 +10,7 @@ Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
-[Shotcut](https://shotcut.org), [OpenShot](https://www.openshot.org/), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
+[Shotcut](https://shotcut.org), [OpenShot](https://www.openshot.org/), [Kdenlive](https://kdenlive.org/) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
 [Ardour](https://ardour.org/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
