@@ -8,8 +8,8 @@ Tools matter</i></p>
 
 Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
-[DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
-[HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
+[DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas/Premiere + After Effects + Audition + SpeedGrade
+[HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Vegas/Premiere + After Effects
 [Shotcut](https://shotcut.org), [OpenShot](https://www.openshot.org/), [Kdenlive](https://kdenlive.org/) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
 [Ardour](https://ardour.org/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
