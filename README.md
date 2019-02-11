@@ -18,17 +18,16 @@ Name | Type | Platform | Popular Alternative
 [ocenaudio](https://www.ocenaudio.com/) | A perfect single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
-[HandBrake](https://handbrake.fr) | The video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
+[HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 
 
 ## Imaging/Design/Foto
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
-[blender](https://www.blender.org/) | Widely appreciated (yet quire hard to use) 3D tool | 3ds Max
+[blender](https://www.blender.org/) | Widely appreciated 3D tool | Lin, Mac, Win | 3ds Max
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
-[darktable](https://www.darktable.org/) | Photo organizer and editor | Lin, Mac, Win | Lightroom
-[RawTherapee](https://rawtherapee.com/) | Raw photos developing toolset | Lin, Mac, Win | Lightroom
+[darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/) | Raw photos developing toolset | Lin, Mac, Win | Lightroom
 [Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
 [LibreOffice Draw](https://libreoffice.org/), [Karbon](https://www.kde.org/applications/graphics/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
@@ -105,7 +104,7 @@ Name | Specifics | Platform | Popular Alternative
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
-[WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win**
+[WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
 
 
 ## Cool Hardware
@@ -114,7 +113,7 @@ Name | Specifics | Software
 ---- | --------- | --------
 [Omega2](https://onion.io/omega2/) | The cheapest Linux platform | OpenWRT-based Linux
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266) | The cheapest MCU with Wi-Fi | [MicroPython](https://micropython.org/), Lua, Arduino, and more
-[C.H.I.P.](https://getchip.com/) | A better Raspberry Pi | Debian-based Linux
+[C.H.I.P.](https://getchip.com/) (R.I.P.) | A better Raspberry Pi | Debian-based Linux
 
 ## [Apps I Use On The Go](Android.md)
 
