@@ -10,12 +10,12 @@ Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Premiere + After Effects
-[Shotcut](https://shotcut.org), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | FOSS non-linear video editors | Lin, Mac, Win | Movie Maker
+[Shotcut](https://shotcut.org), [OpenShot](https://www.openshot.org/), [Kdenlive](https://flathub.org/apps/details/org.kde.kdenlive) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
 [Ardour](https://ardour.org/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
 [LMMS](https://lmms.io/), [BITWING STUDIO](https://bitwig.com/) | Music creation software | Lin, Mac, Win | FL Studio
-[ocenaudio](https://www.ocenaudio.com/) | Single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
+[ocenaudio](https://www.ocenaudio.com/) | A perfect single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
@@ -25,15 +25,17 @@ Name | Type | Platform | Popular Alternative
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
+[blender](https://www.blender.org/) | Widely appreciated (yet quire hard to use) 3D tool | 3ds Max
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
 [darktable](https://www.darktable.org/) | Photo organizer and editor | Lin, Mac, Win | Lightroom
+[RawTherapee](https://rawtherapee.com/) | Raw photos developing toolset | Lin, Mac, Win | Lightroom
 [Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
-[Gravit Designer](https://www.designer.io/) | Lin, Mac, Win, Web | Adobe Illustrator
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
 [LibreOffice Draw](https://libreoffice.org/), [Karbon](https://www.kde.org/applications/graphics/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
+[Synfig Studio](https://www.synfig.org/) | 2D animation software | Lin, Mac, Win | Adobe Animate (former Flash)
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
-[FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee
+[FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee, IrfanView
 
 
 
