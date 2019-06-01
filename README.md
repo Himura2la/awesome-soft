@@ -105,6 +105,7 @@ Name | Specifics | Platform | Popular Alternative
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
+[GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [EaseUS Partition Master](https://www.easeus.com/partition-manager/epm-free.html), [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
 
 
 ## Cool Hardware
