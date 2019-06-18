@@ -108,6 +108,20 @@ Name | Specifics | Platform | Popular Alternative
 [GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
 
 
+
+## Browser Extensions
+
+Name | Specifics | Platform
+---- | --------- | --------
+[uBlock Origin](https://github.com/gorhill/uBlock) | A general-purpose blocker | Fox, Chrm
+[Dark Reader](https://darkreader.org/) | Dark mode for any page | Fox, Chrm
+[Stylus](https://add0n.com/stylus.html) | Userstyles manager | Fox, Chrm
+[Tampermonkey](https://www.tampermonkey.net/) | Userscript manager | Fox, Chrm
+[To Google Translate](https://github.com/itsecurityco/to-google-translate) | Quick translatioon tool | Fox
+[VkOpt](http://vkopt.net/download/) | VKontakte Optimizer | Fox, Chrm
+
+
+
 ## Cool Hardware
 
 Name | Specifics | Software
