@@ -107,7 +107,7 @@ Name | Specifics | Platform | Popular Alternative
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
 [GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
 [Macrium Reflect](https://www.macrium.com/reflectfree) | SSD Migration software | **Win** | [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html), [Clonezilla](http://www.clonezilla.org/)
-
+[fixparts](http://www.rodsbooks.com/fixparts/) | Converts primary partition to logical | Lin, Mac, Win, | [EaseUS Partition Master](https://www.easeus.com/partition-manager/epm-free.html)
 
 
 ## Browser Extensions
