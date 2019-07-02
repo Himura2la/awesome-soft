@@ -106,7 +106,7 @@ Name | Specifics | Platform | Popular Alternative
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
 [GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
-[Macrium Reflect](https://www.macrium.com/reflectfree) | SSD Megration software | **Win** | [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html), [Clonezilla](http://www.clonezilla.org/)
+[Macrium Reflect](https://www.macrium.com/reflectfree) | SSD Migration software | **Win** | [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html), [Clonezilla](http://www.clonezilla.org/)
 
 
 
