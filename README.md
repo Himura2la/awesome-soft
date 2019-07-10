@@ -72,8 +72,7 @@ Name | Specifics | Platform | Popular Alternative
 [tig](http://jonas.nitro.dk/tig/) | Text-based UI for Git | Lin, Mac (CLI) | -
 [Fork](https://git-fork.com/) | GUI for Git | **Mac, Win** | Git Extensions, SourceTree
 [GitKraken](https://www.gitkraken.com/) | GUI for Git (free for home and opensource) | Lin, Mac, Win | Git Extensions, SourceTree
-[P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
-[DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool that looks promising | Lin, Mac, Win | KDiff3, WinMerge
+[P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge), [DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
 [BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Clean a Git history from your passwords and tokens | Java | `git-filter-branch`
 [tldr](https://tldr.sh/) | `man` in a nutshell | Web, CLI | `man`
 [explainshell](https://www.explainshell.com/) | Explanation to any shell command | Web | `man`
