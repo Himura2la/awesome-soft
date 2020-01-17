@@ -16,8 +16,9 @@ Name | Type | Platform | Popular Alternative
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
 [LMMS](https://lmms.io/) | Music creation software | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | A perfect single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
+[Resonic Player](https://resonic.at/) | A perfect audio player, analyzer and organizer | Win | -
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
-[OBS Studio](https://obsproject.com/) | Stream anywhere and/or Record ANYTHING | Lin, Mac, Win | -
+[OBS Studio](https://obsproject.com/) | Stream anywhere and/or record ANYTHING YOU MAY THINK OF | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 
 

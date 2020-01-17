@@ -68,17 +68,22 @@
 
 ### Lifehacks
 
+* [Reachability Cursor](https://play.google.com/store/apps/details?id=com.niftyui.reachability) -- The best touchscreen UX improvement ever existed.
 * [Google Pay](https://play.google.com/store/apps/details?id=com.google.android.apps.walletnfcrel) -- The way I pay EVERYWHERE. It works great. Make sure your next phone has NFC.
 * [Burger King](https://play.google.com/store/apps/details?id=ru.burgerking) -- Stop waiting for your burger in a queue
+* [Dodo Pizza](https://play.google.com/store/apps/details?id=ru.dodopizza.app) -- The most technologically advanced pizzas in Russia.
 * [Delivery Club](https://play.google.com/store/apps/details?id=com.deliveryclub) -- Do u need a Derivery promo code? Det me give u de Derivery promo code.
-* [Stechkin](https://play.google.com/store/apps/details?id=com.loyaltyplant.partner.stechkin) -- The free cocktail is waiting for you in Tula. No strings attached, seriously.
+* [Stechkin](https://play.google.com/store/apps/details?id=com.loyaltyplant.partner.stechkin) -- The free cocktail is waiting for you in Tula. No strings attached, seriously. (R.I.P.)
 * [Wallet](https://play.google.com/store/apps/details?id=ru.cardsmobile.mw3) -- My loyalty cards wallet. Supports storing Russian receipts.
 * [Smart Tools](https://play.google.com/store/apps/details?id=kr.aboy.tools) -- Some tools to survive in the offline
 * [Star Chart](https://play.google.com/store/apps/details?id=com.escapistgames.starchart) -- Explore the Sky
+* [Monefy](https://play.google.com/store/apps/details?id=com.monefy.app.lite) -- If you want to track your money
 
 ### Media 
 
+* [Larix Broadcaster](https://play.google.com/store/apps/details?id=com.wmspanel.larix_broadcaster) -- The ultimate streaming app
 * [Google Photos](https://play.google.com/store/apps/details?id=com.google.android.apps.photos) -- The photo album done right
+* [Adobe Photoshop Mix](https://play.google.com/store/apps/details?id=com.adobe.photoshopmix) -- Collage creation
 * [Listen!](https://play.google.com/store/apps/details?id=ru.litres.android.audio) -- Audiobooks if you want to pay
 * [Voice](https://play.google.com/store/apps/details?id=de.ph1b.audiobook) -- Audiobooks if you don't want to pay
 * [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) -- Anime player \^_\^
@@ -92,7 +97,7 @@
 * [BlaBlaCar](https://play.google.com/store/apps/details?id=com.comuto) -- The best way to get to another city (if you can't hitchhike for some reason)
 * [РЖД](https://play.google.com/store/apps/details?id=ru.rzd.pass) -- The only thing you need to get to a train in Russia
 * [Yandex.Taxi](https://play.google.com/store/apps/details?id=ru.yandex.taxi) -- The last chance to get anywhere. Even to another city (it can be even cheaper than railways for near cities and 3-4 guys).
-* [Maxim: order a taxi](https://play.google.com/store/apps/details?id=com.taxsee.taxsee) -- The very last chance for a lift within a city. Expensive. Cash only. But TONS of cars everywhere.
+* [Maxim: order a taxi](https://play.google.com/store/apps/details?id=com.taxsee.taxsee) -- Less convenient, but still OK
 * [Couchsurfing](https://play.google.com/store/apps/details?id=com.couchsurfing.mobile.android) -- The best way to spend night in another city
 * [Yandex.Maps](https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps) -- The best complete map of Russia
 
