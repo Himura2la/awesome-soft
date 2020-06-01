@@ -74,7 +74,7 @@ Name | Specifics | Platform | Popular Alternative
 [Fork](https://git-fork.com/) | GUI for Git | **Mac, Win** | Git Extensions, SourceTree
 [GitKraken](https://www.gitkraken.com/) | GUI for Git (free for home and opensource) | Lin, Mac, Win | Git Extensions, SourceTree
 [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge), [DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
-[BFG Repo-Cleaner](https://rtyley.github.io/bfg-repo-cleaner/) | Clean a Git history from your passwords and tokens | Java | `git-filter-branch`
+[git-filter-repo](https://github.com/newren/git-filter-repo) | Rewrite the whole Git history | Python | `git-filter-branch`, BFG Repo-Cleaner
 [tldr](https://tldr.sh/) | `man` in a nutshell | Web, CLI | `man`
 [explainshell](https://www.explainshell.com/) | Explanation to any shell command | Web | `man`
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
