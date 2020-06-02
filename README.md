@@ -129,6 +129,8 @@ Name | Specifics | Software
 [Omega2](https://onion.io/omega2/) | The cheapest Linux platform | OpenWRT-based Linux
 [ESP8266](https://en.wikipedia.org/wiki/ESP8266) | The cheapest MCU with Wi-Fi | [MicroPython](https://micropython.org/), Lua, Arduino, and more
 [C.H.I.P.](https://getchip.com/) (R.I.P.) | A better Raspberry Pi | Debian-based Linux
+[MAX9814](https://ebay.to/2RzuxGU) | Microphone preamp | USB
+
 
 ## [Apps I Use On The Go](Android.md)
 
