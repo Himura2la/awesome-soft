@@ -11,10 +11,9 @@ Name | Type | Platform | Popular Alternative
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas/Premiere + After Effects + Audition + SpeedGrade
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Vegas/Premiere + After Effects
 [Shotcut](https://shotcut.org), [OpenShot](https://www.openshot.org/), [Kdenlive](https://kdenlive.org/) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
-[Ardour](https://ardour.org/), [qtractor](https://qtractor.sourceforge.io/) | Professional-grade DAW | Lin, Mac, Win | Audition in a multi-track mode
+[Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [qtractor](https://qtractor.sourceforge.io/) | Digital Audio Workstation | Lin, Mac, Win | Audition in a multi-track mode, FL Studio
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
-[LMMS](https://lmms.io/) | Music creation software | Lin, Mac, Win | FL Studio
 [ocenaudio](https://www.ocenaudio.com/) | A perfect single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [Resonic Player](https://resonic.at/) | A perfect audio player, analyzer and organizer | Win | -
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
