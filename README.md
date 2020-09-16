@@ -33,6 +33,7 @@ Name | Specifics | Platform | Popular Alternative
 [LibreOffice Draw](https://libreoffice.org/), [Karbon](https://www.kde.org/applications/graphics/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [Synfig Studio](https://www.synfig.org/) | 2D animation software | Lin, Mac, Win | Adobe Animate (former Flash)
+[RightFont](https://rightfontapp.com/) | Professional Font Manager for macOS | Mac | -
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee, IrfanView
 
