@@ -119,7 +119,8 @@ Name | Specifics | Platform
 [Tampermonkey](https://www.tampermonkey.net/) | Userscript manager | Fox, Chrm
 [To Google Translate](https://github.com/itsecurityco/to-google-translate) | Quick translatioon tool | Fox
 [VkOpt](http://vkopt.net/download/) | VKontakte Optimizer | Fox, Chrm
-
+[LanguageTool](https://languagetool.org/) | Spell Checker | Fox, Chrm
+[Link Text and Location Copier](https://evilnickname.github.io/link-text-location-copier/) | Copy text linked to current page | Fox
 
 
 ## Cool Hardware
