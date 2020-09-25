@@ -118,7 +118,8 @@ Name | Specifics | Platform
 [Stylus](https://add0n.com/stylus.html) | Userstyles manager | Fox, Chrm
 [Tampermonkey](https://www.tampermonkey.net/) | Userscript manager | Fox, Chrm
 [To Google Translate](https://github.com/itsecurityco/to-google-translate) | Quick translatioon tool | Fox
-[VkOpt](http://vkopt.net/download/) | VKontakte Optimizer | Fox, Chrm
+[VkOpt](https://raw.githubusercontent.com/VkOpt/VkOpt/master/builds/vkopt_script.user.js) | VKontakte Optimizer | Tampermonkey
+[Redesign VK Dark Theme](https://raw.githubusercontent.com/Suvorov-m/styles/master/vk-dark.user.css) | Dark Theme for VK | Stylus
 [LanguageTool](https://languagetool.org/) | Spell Checker | Fox, Chrm
 [Link Text and Location Copier](https://evilnickname.github.io/link-text-location-copier/) | Copy text linked to current page | Fox
 
