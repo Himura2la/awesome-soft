@@ -113,15 +113,15 @@ Name | Specifics | Platform | Popular Alternative
 
 Name | Specifics | Platform
 ---- | --------- | --------
-[uBlock Origin](https://github.com/gorhill/uBlock) | A general-purpose blocker | Fox, Chrm
-[Dark Reader](https://darkreader.org/) | Dark mode for any page | Fox, Chrm
-[Stylus](https://add0n.com/stylus.html) | Userstyles manager | Fox, Chrm
+[uBlock Origin](https://github.com/gorhill/uBlock#installation) | A general-purpose blocker | Fox, Chrm
+[Dark Reader](https://github.com/darkreader/darkreader#dark-reader-for-google-chrome-and-mozilla-firefox) | Dark mode for any page | Fox, Chrm
+[LanguageTool](https://languagetool.org/#firefox_chrome) | Spell Checker | Fox, Chrm
+[Stylus](https://github.com/openstyles/stylus/#releases) | Userstyles manager | Fox, Chrm
 [Tampermonkey](https://www.tampermonkey.net/) | Userscript manager | Fox, Chrm
 [To Google Translate](https://github.com/itsecurityco/to-google-translate) | Quick translatioon tool | Fox
+[Link Text and Location Copier](https://github.com/evilnickname/link-text-location-copier) | Copy text linked to current page | Fox
 [VkOpt](https://raw.githubusercontent.com/VkOpt/VkOpt/master/builds/vkopt_script.user.js) | VKontakte Optimizer | Tampermonkey
 [Redesign VK Dark Theme](https://raw.githubusercontent.com/Suvorov-m/styles/master/vk-dark.user.css) | Dark Theme for VK | Stylus
-[LanguageTool](https://languagetool.org/) | Spell Checker | Fox, Chrm
-[Link Text and Location Copier](https://evilnickname.github.io/link-text-location-copier/) | Copy text linked to current page | Fox
 
 
 ## Cool Hardware
