@@ -82,6 +82,7 @@ Name | Specifics | Platform | Popular Alternative
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
 [Podman](https://podman.io/) | Docker dune right (with backward compatibility) | Lin, Mac, Win | Docker
+[Ansible](https://www.ansible.com/) | Describe and maintain the state of your server | Lin, Mac, Win | bash scripts
 [Nomad](https://www.nomadproject.io/) | Orchestration the Easy Way | Lin, Mac, Win | Kubernetes
 [Diffy](https://diffy.org/) | Online diff-file viewer | Web | git + GitLab or GitHub
 
