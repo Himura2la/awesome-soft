@@ -82,6 +82,7 @@ Name | Specifics | Platform | Popular Alternative
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
 [Thonny](https://thonny.org/) | Lightweight Python IDE | Python (tcl/tk) | ILDE
+[Diffy](https://diffy.org/) | Online diff-file viewer | Web | GitLab/GitHub
 
 ## Engineering
 
