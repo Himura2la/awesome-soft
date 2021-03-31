@@ -78,10 +78,12 @@ Name | Specifics | Platform | Popular Alternative
 [explainshell](https://www.explainshell.com/) | Explanation to any shell command | Web | `man`
 [Data Converter](https://conv.darkbyte.ru/) | Text, Bin, Dec, Hex, Base64, Hash sums | Web | Hand-made tools
 [DB Browser for SQLite](http://sqlitebrowser.org/) | A quick and easy way to use SQL | Lin, Mac, Win | -
-[PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | Maybe SystemD or Docker
+[PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | SystemD or Docker
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
-[Diffy](https://diffy.org/) | Online diff-file viewer | Web | GitLab/GitHub
+[Podman](https://podman.io/) | Docker dune right (with backward compatibility) | Lin, Mac, Win | Docker
+[Nomad](https://www.nomadproject.io/) | Orchestration the Easy Way | Lin, Mac, Win | Kubernetes
+[Diffy](https://diffy.org/) | Online diff-file viewer | Web | git + GitLab or GitHub
 
 ## Engineering
 
