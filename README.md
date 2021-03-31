@@ -81,7 +81,6 @@ Name | Specifics | Platform | Popular Alternative
 [PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | Maybe SystemD or Docker
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
-[Thonny](https://thonny.org/) | Lightweight Python IDE | Python (tcl/tk) | ILDE
 [Diffy](https://diffy.org/) | Online diff-file viewer | Web | GitLab/GitHub
 
 ## Engineering
