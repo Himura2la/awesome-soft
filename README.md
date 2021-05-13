@@ -141,6 +141,7 @@ Name | Specifics | Software
 ## [Apps I Use On The Go](Android.md)
 
 ## Other Stuff
+* [The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [More ![Awesome](https://awesome.re/badge-flat.svg) Software](https://awesome.re)
 * [More awesome software by language](https://github.com/lk-geimfari/awesomo)
 * [More Free Services](https://habrahabr.ru/post/271279/) (Russian)
