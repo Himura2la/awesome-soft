@@ -84,7 +84,7 @@ Name | Specifics | Platform | Popular Alternative
 [Podman](https://podman.io/) | Docker dune right (with backward compatibility) | Lin, Mac, Win | Docker
 [Ansible](https://www.ansible.com/) | Describe and maintain the state of your server | Lin, Mac, Win | bash scripts
 [Nomad](https://www.nomadproject.io/) | Orchestration the Easy Way | Lin, Mac, Win | Kubernetes
-[Diffy](https://diffy.org/) | Online diff-file viewer | Web | git + GitLab or GitHub
+[Diffy](https://diffy.org/) | Online diff-file viewer (`diff -ur ./d1 ./d2 > d.txt`) | Web | git + GitLab or GitHub
 [Flutter](https://flutter.dev/) | Next generation of cross-platform development. Dart is awesome. | Lin, Mac, Win | PhoneGap
 
 ## Engineering
