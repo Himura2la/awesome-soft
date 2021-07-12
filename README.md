@@ -87,6 +87,7 @@ Name | Specifics | Platform | Popular Alternative
 [Diffy](https://diffy.org/) | Online diff-file viewer (`diff -ur ./d1 ./d2 > d.txt`) | Web | git + GitLab or GitHub
 [Flutter](https://flutter.dev/) | Next generation of cross-platform development. Dart is awesome. | Lin, Mac, Win | PhoneGap
 
+
 ## Engineering
 
 Name | Specifics | Platform | Popular Alternative
@@ -105,12 +106,14 @@ Name | Specifics | Platform | Popular Alternative
 [FreeFileSync](https://freefilesync.org) | Nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
 [Tixati](https://www.tixati.com) | Awesome no-ad torrent client | Lin, Win | μTorrent
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
+[Bitwarden](https://bitwarden.com/) | Convenient password manager | Lin, Mac, Win, Android | KeePass
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
 [Trello](https://trello.com/) | Organize anything | Web | Paper?
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
 [GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
 [Clonezilla](http://www.clonezilla.org/) | SSD Migration software | Lin, Mac, Win | [Macrium Reflect](https://www.macrium.com/reflectfree), [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html)
 [fixparts](http://www.rodsbooks.com/fixparts/) | Converts primary partition to logical | Lin, Mac, Win | [EaseUS Partition Master](https://www.easeus.com/partition-manager/epm-free.html)
+[SVGOMG!](https://jakearchibald.github.io/svgomg) | Cleans up the SVG markup | Web | -
 
 
 ## Browser Extensions
