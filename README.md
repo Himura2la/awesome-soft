@@ -20,7 +20,8 @@ Name | Type | Platform | Popular Alternative
 [OBS Studio](https://obsproject.com/) | Live video editor with unlimited capabilities | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 [NATRON](https://natrongithub.github.io), [enve](https://maurycyliebner.github.io/) | 2D animation and VFX | Lin, Win | After Effects
-
+[ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
+[Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 
 ## Imaging/Design/Foto
 
