@@ -46,9 +46,8 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [Visual Studio Code](https://code.visualstudio.com/) | Ultimate | Lin, Mac, Win | Sublime Text
 [AkelPad](http://akelpad.sourceforge.net/en/) | Light and Fast | **Win** | `notepad.exe`
-[Neovim](https://neovim.io/) | It seems hard unless you try ([my .vimrc](https://github.com/Himura2la/nvim-config)) | Lin, Mac, Win | Vim
+[Vim](https://www.vim.org/download.php) | It seems hard unless you try ([my .vimrc](https://gitlab.com/himura/env/-/blob/master/.vimrc)) | Lin, Mac, Win | Neovim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
-[Oni](https://github.com/onivim/oni) | Neovim+Electron | Lin, Mac, Win | Neovim-Qt
 
 
 ## Language/Writing
@@ -119,7 +118,7 @@ Name | Specifics | Platform | Popular Alternative
 [fixparts](http://www.rodsbooks.com/fixparts/) | Converts primary partition to logical | Lin, Mac, Win | [EaseUS Partition Master](https://www.easeus.com/partition-manager/epm-free.html)
 [SVGOMG!](https://jakearchibald.github.io/svgomg) | Cleans up the SVG markup | Web | -
 [UltraViewer](https://ultraviewer.net) | Remote Control | **Win** | TeamViewer, RDP
-
+[awfice](https://github.com/zserge/awfice) | Simple browser-based office apps | Web Browser | -
 
 ## Browser Extensions
 
