@@ -22,6 +22,7 @@ Name | Type | Platform | Popular Alternative
 [NATRON](https://natrongithub.github.io), [enve](https://maurycyliebner.github.io/) | 2D animation and VFX | Lin, Win | After Effects
 [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
+[OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
 
 ## Imaging/Design/Foto
 
