@@ -23,6 +23,8 @@ Name | Type | Platform | Popular Alternative
 [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 [OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
+[NATRON](https://natrongithub.github.io/) | VFX and Motion Graphics | Lin, Mac, Win | Adobe AfterEffects
+
 
 ## Imaging/Design/Foto
 
@@ -120,6 +122,10 @@ Name | Specifics | Platform | Popular Alternative
 [SVGOMG!](https://jakearchibald.github.io/svgomg) | Cleans up the SVG markup | Web | -
 [UltraViewer](https://ultraviewer.net) | Remote Control | **Win** | TeamViewer, RDP
 [awfice](https://github.com/zserge/awfice) | Simple browser-based office apps | Web Browser | -
+[Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
+[Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
+[Joplin](https://joplinapp.org/) | Notes | All | Evernote
+
 
 ## Browser Extensions
 
