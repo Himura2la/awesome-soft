@@ -48,7 +48,7 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [Visual Studio Code](https://code.visualstudio.com/) | Ultimate | Lin, Mac, Win | Sublime Text
-[lite](https://github.com/rxi/lite) | Light and Fast | Lin, Win | `notepad.exe`, AkelPad, leafpad
+[lite-xl](https://github.com/lite-xl/lite-xl) | Light and Fast | Lin, Win | `notepad.exe`, AkelPad, leafpad, lite
 [Vim](https://www.vim.org/download.php) | It seems hard unless you try ([my .vimrc](https://gitlab.com/himura/env/-/blob/master/.vimrc)) | Lin, Mac, Win | Neovim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
 
