@@ -71,8 +71,7 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [GCC](https://www.gnu.org/software/gcc/) | The compiler that changed the industry | Any | Visual Studio, LLVM
 [Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
-[GitLab](https://gitlab.com) | Raise your own internal GitHub! | Web | GitHub
-[AppVeyor](https://www.appveyor.com/) | Free CI with artifacts storage | Builds on Win, [Lin](https://www.appveyor.com/docs/getting-started-with-appveyor-for-linux/)
+[GitLab](https://gitlab.com) | Raise your own internal GitHub-like service! | Web | GitHub
 [tig](http://jonas.nitro.dk/tig/) | Text-based UI for Git | Lin, Mac (CLI) | -
 [Fork](https://git-fork.com/) | GUI for Git | **Mac, Win** | Git Extensions, SourceTree
 [GitKraken](https://www.gitkraken.com/) | GUI for Git (free for home and opensource) | Lin, Mac, Win | Git Extensions, SourceTree
@@ -85,7 +84,7 @@ Name | Specifics | Platform | Popular Alternative
 [PM2 Runtime](https://pm2.io/runtime/) | Production Process Manager for Node.js | NodeJS | SystemD or Docker
 [Partition Wizard](https://www.partitionwizard.com/) | Free Partition Manager for Windows | **Win** | Many
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
-[Podman](https://podman.io/) | Docker dune right (with backward compatibility) | Lin, Mac, Win | Docker
+[Podman](https://podman.io/) | Docker done right (with backward compatibility) | Lin, Mac, Win | Docker
 [Ansible](https://www.ansible.com/) | Describe and maintain the state of your servers | Lin, Mac, Win | bash scripts
 [Nomad](https://www.nomadproject.io/) | Orchestration the Easy Way | Lin, Mac, Win | Kubernetes
 [Diffy](https://diffy.org/) | Online diff-file viewer (`diff -ur ./d1 ./d2 > d.txt`) | Web | git + GitLab or GitHub
@@ -93,6 +92,7 @@ Name | Specifics | Platform | Popular Alternative
 [Turndown](https://mixmark-io.github.io/turndown/) | HTML to Markdown converter | Web | pandoc
 [Google Colab](https://colab.research.google.com) | [Free](https://research.google.com/colaboratory/faq.html) computing resources (including GPUs) | Python, Web
 [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | Wipe all of your disks | bootable x86/x64 | ?
+[Nomad](https://www.nomadproject.io/) | A simple orchestrator that you can manage yourself | Web | k8s
 
 ## Engineering
 
