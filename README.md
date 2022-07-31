@@ -139,7 +139,6 @@ Name | Specifics | Platform
 [To Google Translate](https://github.com/itsecurityco/to-google-translate) | Quick translatioon tool | Fox
 [Link Text and Location Copier](https://github.com/evilnickname/link-text-location-copier) | Copy text linked to current page | Fox
 [VkOpt](https://raw.githubusercontent.com/VkOpt/VkOpt/master/builds/vkopt_script.user.js) | VKontakte Optimizer | Tampermonkey
-[Redesign VK Dark Theme](https://raw.githubusercontent.com/Suvorov-m/styles/master/vk-dark.user.css) | Dark Theme for VK | Stylus
 
 
 ## Cool Hardware
