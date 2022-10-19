@@ -125,7 +125,7 @@ Name | Specifics | Platform | Popular Alternative
 [Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
 [Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
 [Joplin](https://joplinapp.org/) | Notes | All | Evernote
-[Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | VPNs | Lin, Mac, Win, Android
+[Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | Lin, Mac, Win, Android | VPNs
 
 ## Browser Extensions
 
