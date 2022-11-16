@@ -100,7 +100,7 @@ Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [FreeCAD](https://www.freecadweb.org/) | The 3D CAD | Lin, Mac, Win | SolidWorks
 [SolveSpace](https://solvespace.com/) | The parametric 3D CAD | Lin, Mac, Win | SolidWorks
-[BRL‑CAD](https://brlcad.org/) | The oldest 3D CAD in the world. Extremely hard. Don't try. | Lin, Mac, Win | -
+[BRL‑CAD](https://brlcad.org/), [OpenSCAD](https://openscad.org/) | Extremely hard. Don't even try. | Lin, Mac, Win | -
 [LibreCAD](https://librecad.org/), [QCAD](https://www.qcad.org/) | The 2D CADs | Lin, Mac, Win | AutoCAD
 [KiCad](http://kicad-pcb.org/) | The EDA | Lin, Mac, Win | P-CAD, Altium Designer, EAGLE, DipTrace
 [bCNC](https://github.com/vlachoudis/bCNC) | The ultimate GRBL CNC tool on tcl/tk | Lin, Mac, Win | Many
