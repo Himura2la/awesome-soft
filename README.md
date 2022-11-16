@@ -57,7 +57,7 @@ Name | Specifics | Platform | Popular Alternative
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
-[Grammarly](https://grammarly.com/) | Most powerful spell checker ever existed | Web | Paid human corrector
+[LanguageTool](https://languagetool.org/) | Good spell checker | All | Many
 [Emojipedia](https://emojipedia.org/objects/) | Emoji search engine | Web | -
 [Glosbe](https://glosbe.com/) | Dictionary with usage examples | Web | -
 [Thesaurus.com](http://thesaurus.com) | Synonims search engine | Web | -
@@ -116,7 +116,6 @@ Name | Specifics | Platform | Popular Alternative
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [Bitwarden](https://bitwarden.com/) | Convenient password manager | Lin, Mac, Win, Android | KeePass
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
-[Trello](https://trello.com/) | Organize anything | Web | Paper?
 [WizTree](https://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) | Disk space analyzer | **Win** | Folder Size
 [GParted](https://gparted.org/) | Partition manager | Lin, Mac, Win | [MiniTool Partition Wizard](https://www.partitionwizard.com/download.html)
 [Clonezilla](http://www.clonezilla.org/) | SSD Migration software | Lin, Mac, Win | [Macrium Reflect](https://www.macrium.com/reflectfree), [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html)
