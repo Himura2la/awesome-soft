@@ -17,6 +17,7 @@ Name | Type | Platform | Popular Alternative
 [ocenaudio](https://www.ocenaudio.com/) | A perfect single-track audio editor | Lin, Mac, Win | Audition in a single-track mode
 [Resonic Player](https://resonic.at/) | A perfect audio player, analyzer and organizer | Win | -
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
+[MPC-BE](https://mpcbe.sourceforge.io/) | Old classic Media Player | Win | VLC
 [OBS Studio](https://obsproject.com/) | Live video editor with unlimited capabilities | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 [NATRON](https://natrongithub.github.io), [enve](https://maurycyliebner.github.io/) | 2D animation and VFX | Lin, Win | After Effects
