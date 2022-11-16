@@ -93,6 +93,7 @@ Name | Specifics | Platform | Popular Alternative
 [Google Colab](https://colab.research.google.com) | [Free](https://research.google.com/colaboratory/faq.html) computing resources (including GPUs) | Python, Web
 [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | Wipe all of your disks | bootable x86/x64 | ?
 [Nomad](https://www.nomadproject.io/) | A simple orchestrator that you can manage yourself | Web | k8s
+[Jupyter](https://jupyter.org/) | Python notebook | Any | Python Interactive CLI
 
 ## Engineering
 
@@ -127,6 +128,7 @@ Name | Specifics | Platform | Popular Alternative
 [Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
 [Joplin](https://joplinapp.org/) | Notes | All | Evernote
 [Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | Lin, Mac, Win, Android | VPNs
+[Syncthing](https://syncthing.net/) | Continuous file synchronization program | Lin, Mac, Win, Android | rsync
 
 ## Browser Extensions
 
