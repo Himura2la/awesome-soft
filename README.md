@@ -113,7 +113,7 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
 [FreeFileSync](https://freefilesync.org) | Nice and friendly file synchronizer (mostly for backuping) | Lin, Mac, Win | -
-[Tixati](https://www.tixati.com) | Awesome no-ad torrent client | Lin, Win | μTorrent
+[Tixati](https://www.tixati.com), [qBittorrent](https://www.qbittorrent.org/) | Awesome no-ad torrent clients | Lin, Win | μTorrent
 [KeePass](https://www.keepassx.org/) | Secure password manager | Lin, Mac, Win, Android | Paper?
 [Bitwarden](https://bitwarden.com/) | Convenient password manager | Lin, Mac, Win, Android | KeePass
 [7-Zip](https://www.7-zip.org/) | The best archiver | Lin, Win | WinRAR
