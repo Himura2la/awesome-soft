@@ -163,4 +163,4 @@ Name | Specifics | Software
   * [More Awesome Linux Software](https://github.com/luong-komorebi/Awesome-Linux-Software)
   * [More awesome software by language](https://github.com/lk-geimfari/awesomo)
 * [More Free Services](https://habrahabr.ru/post/271279/) (Russian)
-* [My Cheatsheets](http://himura.tk)
+* [My Cheatsheets](https://gitlab.com/himura/cheatsheets)
