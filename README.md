@@ -10,7 +10,7 @@ Name | Type | Platform | Popular Alternative
 ---- | ---- | -------- | -------------------
 [DaVinci Resolve](https://www.blackmagicdesign.com/ru/products/davinciresolve/) | Video&Audio editor (All-in-One) | Lin, Mac, Win | Vegas/Premiere + After Effects + Audition + SpeedGrade
 [HitFilm Express](https://hitfilm.com/express/) | Video&VFX editor | **Mac, Win** | Vegas/Premiere + After Effects
-**[Kdenlive](https://kdenlive.org/)**, [Shotcut](https://shotcut.org), [Olive](https://www.olivevideoeditor.org/), [OpenShot](https://www.openshot.org/), [Flowblade](https://jliljebl.github.io/flowblade/) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
+**[Kdenlive](https://kdenlive.org/)**, [Shotcut](https://shotcut.org), [Olive](https://www.olivevideoeditor.org/), [OpenShot](https://www.openshot.org/), [Flowblade](https://jliljebl.github.io/flowblade/), [Pitivi](https://github.com/pitivi/pitivi) | Other FOSS video editors | Lin, Mac, Win | Movie Maker
 [Ardour](https://ardour.org/), [LMMS](https://lmms.io/), [qtractor](https://qtractor.sourceforge.io/) | Digital Audio Workstation | Lin, Mac, Win | Audition in a multi-track mode, FL Studio
 [JACK](http://jackaudio.org/) | Sound server (great with Ardour) | Lin Mac, Win | Many sound cards + hardware mixer
 [Calf Studio Gear](https://calf-studio-gear.org/) | Audio plug-in pack (great with Ardour) | Lin, Mac | Random VST Plugins
