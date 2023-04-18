@@ -64,6 +64,7 @@ Name | Specifics | Platform | Popular Alternative
 [Thesaurus.com](http://thesaurus.com) | Synonims search engine | Web | -
 [LaTeX](https://www.latex-project.org/) | Believe me, it worth learning | Lin, Mac, Win | Microsoft Office
 [LibreOffice](https://libreoffice.org/) | Quite a robust office suite | Lin, Mac, Win | Microsoft Office
+[DeepL](https://www.deepl.com) | AI translator | Web | Google Translate
 
 
 ## Developer Tools
