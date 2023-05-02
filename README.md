@@ -96,6 +96,8 @@ Name | Specifics | Platform | Popular Alternative
 [ShredOS](https://github.com/PartialVolume/shredos.x86_64) | Wipe all of your disks | bootable x86/x64 | ?
 [Nomad](https://www.nomadproject.io/) | A simple orchestrator that you can manage yourself | Web | k8s
 [Jupyter](https://jupyter.org/) | Python notebook | Any | Python Interactive CLI
+[Harbor](https://goharbor.io/) | Container registry | Containers | Docker Registry, ACR
+
 
 ## Engineering
 
