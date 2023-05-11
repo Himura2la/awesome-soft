@@ -18,7 +18,7 @@ Name | Type | Platform | Popular Alternative
 [Resonic Player](https://resonic.at/) | A perfect audio player, analyzer and organizer | Win | -
 [VLC](https://www.videolan.org/vlc/index.ru.html) | The ultimate media player | Lin, Mac, Win | Many of them
 [MPC-BE](https://mpcbe.sourceforge.io/) | Old classic Media Player | Win | VLC
-[OBS Studio](https://obsproject.com/) | Live video editor with unlimited capabilities | Lin, Mac, Win | -
+[OBS Studio](https://obsproject.com/) | Live video production software with unlimited capabilities | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 [NATRON](https://natrongithub.github.io), [enve](https://maurycyliebner.github.io/) | 2D animation and VFX | Lin, Win | After Effects
 [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
