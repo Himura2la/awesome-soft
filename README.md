@@ -125,7 +125,7 @@ Name | Specifics | Platform | Popular Alternative
 [Clonezilla](http://www.clonezilla.org/) | SSD Migration software | Lin, Mac, Win | [Macrium Reflect](https://www.macrium.com/reflectfree), [EaseUS Todo Backup Free](https://www.easeus.com/backup-software/tb-free.html)
 [fixparts](http://www.rodsbooks.com/fixparts/) | Converts primary partition to logical | Lin, Mac, Win | [EaseUS Partition Master](https://www.easeus.com/partition-manager/epm-free.html)
 [SVGOMG!](https://jakearchibald.github.io/svgomg) | Cleans up the SVG markup | Web | -
-[UltraViewer](https://ultraviewer.net) | Remote Control | **Win** | TeamViewer, RDP
+[RustDesk](https://github.com/rustdesk/rustdesk) | Remote desktop | Lin, Mac, Win, Android | TeamViewer, AnyDesk
 [awfice](https://github.com/zserge/awfice) | Simple browser-based office apps | Web Browser | -
 [Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
 [Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
