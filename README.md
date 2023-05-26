@@ -97,6 +97,7 @@ Name | Specifics | Platform | Popular Alternative
 [Nomad](https://www.nomadproject.io/) | A simple orchestrator that you can manage yourself | Web | k8s
 [Jupyter](https://jupyter.org/) | Python notebook | Any | Python Interactive CLI
 [Harbor](https://goharbor.io/) | Container registry | Containers | Docker Registry, ACR
+[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | Python GUI Library | Python | wxPython, tcl/tk
 
 
 ## Engineering
