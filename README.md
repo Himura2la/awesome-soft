@@ -133,6 +133,7 @@ Name | Specifics | Platform | Popular Alternative
 [Joplin](https://joplinapp.org/) | Notes | All | Evernote
 [Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | Lin, Mac, Win, Android | VPNs
 [Syncthing](https://syncthing.net/) | Continuous file synchronization program | Lin, Mac, Win, Android | rsync
+[Home Assistant](https://www.home-assistant.io/) | A single place for all smart home automation | - | Mi Home
 
 ## Browser Extensions
 
