@@ -20,11 +20,10 @@ Name | Type | Platform | Popular Alternative
 [MPC-BE](https://mpcbe.sourceforge.io/) | Old classic Media Player | Win | VLC
 [OBS Studio](https://obsproject.com/) | Live video production software with unlimited capabilities | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
-[NATRON](https://natrongithub.github.io), [enve](https://maurycyliebner.github.io/) | 2D animation and VFX | Lin, Win | After Effects
+**[NATRON](https://natrongithub.github.io)**, [enve](https://maurycyliebner.github.io/) | 2D animation, VFX, and Motion Graphics | Lin, Win | After Effects
 [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 [OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
-[NATRON](https://natrongithub.github.io/) | VFX and Motion Graphics | Lin, Mac, Win | Adobe AfterEffects
 
 
 ## Imaging/Design/Foto
