@@ -35,7 +35,7 @@ Name | Specifics | Platform | Popular Alternative
 [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/) | Raw photos developing toolset | Lin, Mac, Win | Lightroom
 [Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
-[LibreOffice Draw](https://libreoffice.org/), [Karbon](https://www.kde.org/applications/graphics/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
+[LibreOffice Draw](https://libreoffice.org/), [Karbon](https://calligra.org/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
 [Krita](https://krita.org/en/) | Digital painting made free | Lin, Mac, Win | SAI
 [Synfig Studio](https://www.synfig.org/) | 2D animation software | Lin, Mac, Win | Adobe Animate (former Flash)
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
