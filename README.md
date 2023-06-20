@@ -127,7 +127,7 @@ Name | Specifics | Platform | Popular Alternative
 [SVGOMG!](https://jakearchibald.github.io/svgomg) | Cleans up the SVG markup | Web | -
 [RustDesk](https://github.com/rustdesk/rustdesk) | Remote desktop | Lin, Mac, Win, Android | TeamViewer, AnyDesk
 [awfice](https://github.com/zserge/awfice) | Simple browser-based office apps | Web Browser | -
-[Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
+[Element](https://element.io), [Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
 [Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
 [Joplin](https://joplinapp.org/) | Notes | All | Evernote
 [Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | Lin, Mac, Win, Android | VPNs
