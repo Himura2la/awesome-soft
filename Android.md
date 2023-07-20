@@ -1,6 +1,11 @@
 # Awesome Software for Your Android Device
 ## Only the best apps I can't live without
 
+* https://github.com/Lucchetto/SuperImage
+* https://play.google.com/store/apps/details?id=com.Splitwise.SplitwiseMobile
+
+
+## Obsolete
 
 ### My main screen
 
