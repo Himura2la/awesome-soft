@@ -5,7 +5,7 @@
 ### Bundles
 
 * Melda Production [MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
-* Kilohearts [Essentials](https://kilohearts.com/products/kilohearts_essentials)
+* [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials)
 
 ### Dynamics
 
