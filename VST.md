@@ -2,7 +2,10 @@
 
 ## Free
 
-[Melda Production MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
+### Bundles
+
+* Melda Production [MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
+* Kilohearts [Essentials](https://kilohearts.com/products/kilohearts_essentials)
 
 ### Dynamics
 
@@ -19,15 +22,14 @@
 * Voxengo [OldSkoolVerb](https://www.voxengo.com/product/oldskoolverb/)
 * Polyverse [Wider](https://polyversemusic.com/products/wider/)
 
-### Technical
+### VST Tools
 
 * Voxengo [MSED](https://www.voxengo.com/product/msed/)
 * [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
+* Waves [StudioRack](https://www.waves.com/plugins/studiorack) (for VST3 support in OBS)
 
+### Windows Tools
 
-### Tools
-
-* [Ardour](https://ardour.org/)
 * [VB-CABLE](https://vb-audio.com/Cable/)
 * [VoiceMeeter](https://vb-audio.com/Voicemeeter/)
 
