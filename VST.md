@@ -15,6 +15,7 @@
 
 ### EQ
 
+* [MEqualizer](https://www.meldaproduction.com/MEqualizer)
 * TOKYO DAWN LABS [Nova](https://www.tokyodawn.net/tdr-nova/)
 
 ### FX
