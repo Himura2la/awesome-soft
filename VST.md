@@ -19,8 +19,16 @@
 
 ### FX
 
-* Voxengo [OldSkoolVerb](https://www.voxengo.com/product/oldskoolverb/)
 * Polyverse [Wider](https://polyversemusic.com/products/wider/)
+
+#### Reverbs
+
+* Voxengo [OldSkoolVerb](https://www.voxengo.com/product/oldskoolverb/)
+* Adam Szabo [Solaris](https://www.adamszabo.com/vstplugins/solaris/)
+* Valhalla[Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
+* ArtV [Turbo Paco](https://www.kvraudio.com/product/turbo-paco-by-artv)
+* Denis Tihanov [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
+
 
 ### VST Tools
 
