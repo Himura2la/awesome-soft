@@ -63,7 +63,7 @@
 
 #### [F-Droid](https://f-droid.org)
 
-* [Neo Store](https://neostore.com.np/) -- Better client
+* [Neo Store](https://github.com/NeoApplications/Neo-Store) -- Better client
 * [FastHub-Libre](https://f-droid.org/app/com.fastaccess.github.libre) -- A GitHub client
 * [KeePass DX](https://f-droid.org/app/com.kunzisoft.keepass.libre) -- A KeePass client with fingerprints
 * [OpenKeychain](https://f-droid.org/app/org.sufficientlysecure.keychain)
