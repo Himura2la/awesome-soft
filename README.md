@@ -135,6 +135,8 @@ Name | Specifics | Platform | Popular Alternative
 [Home Assistant](https://www.home-assistant.io/) | A single place for all smart home automation | - | Mi Home
 [WingetUI](https://github.com/marticliment/WingetUI) | Keep your apps always updated | Win | MS Store
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) | It works! | Python | A youtube-dl fork
+[Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom
+
 
 ## Browser Extensions
 
