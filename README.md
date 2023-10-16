@@ -128,14 +128,13 @@ Name | Specifics | Platform | Popular Alternative
 [RustDesk](https://github.com/rustdesk/rustdesk) | Remote desktop | Lin, Mac, Win, Android | TeamViewer, AnyDesk
 [awfice](https://github.com/zserge/awfice) | Simple browser-based office apps | Web Browser | -
 [Element](https://element.io), [Mattermost](https://mattermost.com/), [Rocket.Chat](https://rocket.chat/), [Zulip](https://zulip.com/) | Collaboration software | All | Slack, Teams
-[Jitsi](https://jitsi.org/) / [8x8 Meet](https://8x8.vc/) | Video conferences | All | Zoom
 [Joplin](https://joplinapp.org/) | Notes | All | Evernote
 [Tor Browser](https://www.torproject.org/download/) | Slow, but very secure anonymizer | Lin, Mac, Win, Android | VPNs
 [Syncthing](https://syncthing.net/) | Continuous file synchronization program | Lin, Mac, Win, Android | rsync
 [Home Assistant](https://www.home-assistant.io/) | A single place for all smart home automation | - | Mi Home
 [WingetUI](https://github.com/marticliment/WingetUI) | Keep your apps always updated | Win | MS Store
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) | It works! | Python | A youtube-dl fork
-[Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom
+[Jitsi](https://jitsi.org/) / [Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom, Google Meet
 
 
 ## Browser Extensions
