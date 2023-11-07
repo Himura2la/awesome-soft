@@ -97,6 +97,7 @@ Name | Specifics | Platform | Popular Alternative
 [Jupyter](https://jupyter.org/) | Python notebook | Any | Python Interactive CLI
 [Harbor](https://goharbor.io/) | Container registry | Containers | Docker Registry, ACR
 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | Python GUI Library | Python | wxPython, tcl/tk
+[Kivy](https://kivy.org/gallery.html) | Python GUI Library | Python | PyQt
 
 
 ## Engineering
