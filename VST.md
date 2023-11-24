@@ -5,7 +5,8 @@
 ### Bundles
 
 * Melda Production [MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
-* [Kilohearts Essentials](https://kilohearts.com/products/kilohearts_essentials)
+* Kilohearts [Essentials](https://kilohearts.com/products/kilohearts_essentials)
+* AUDIOMODERN [Gatelab / Filterstep / Panflow](https://audiomodern.com/free/)
 
 ### Dynamics
 
@@ -21,8 +22,10 @@
 ### FX
 
 * Polyverse [Wider](https://polyversemusic.com/products/wider/)
-* Auburn Sounds [Inner Pitch](https://www.auburnsounds.com/products/InnerPitch.html)
-* Cymatics [DejaVu](https://cymatics.fm/collections/store/products/deja-vu-plugin)
+* Pitch Shift: Auburn Sounds [Inner Pitch](https://www.auburnsounds.com/products/InnerPitch.html)
+* Pitch Shift: Cymatics [DejaVu](https://cymatics.fm/collections/store/products/deja-vu-plugin)
+* Multi-band distortion: Wings Music [Fire](https://jerryuhoo.github.io/Fire/)
+* Extreme distortion: [Freequel Bundle](https://noiseengineering.us/products/the-freequel-bundle-sinc-vereor-virt-vereor-ruina)
 
 #### Reverbs and Delays
 
@@ -32,16 +35,24 @@
 * ArtV [Turbo Paco](https://www.kvraudio.com/product/turbo-paco-by-artv)
 * Denis Tihanov [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
 * Platone [Flex Reverb](https://platonestudio.com/product/flex-reverb/) and [Delay Eleven](https://platonestudio.com/product/delay-eleven/)
+- Sixth Sample [Deelay](https://sixthsample.com/deelay/)
+
 
 ### Volume
 
 * [master_me](https://github.com/trummerschlunk/master_me)
 * [Youlean Loudness Meter](https://youlean.co/youlean-loudness-meter/)
 
+### Synth
+
+* Surge [XT](https://surge-synthesizer.github.io/)
+* DISTRHO [Cardinal](https://github.com/DISTRHO/Cardinal/)
+
 ### VST Tools
 
 * Voxengo [MSED](https://www.voxengo.com/product/msed/)
 * Waves [StudioRack](https://www.waves.com/plugins/studiorack) (for VST3 support in OBS)
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/)
 
 ### Windows Tools
 
