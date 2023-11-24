@@ -21,14 +21,17 @@
 ### FX
 
 * Polyverse [Wider](https://polyversemusic.com/products/wider/)
+* Auburn Sounds [Inner Pitch](https://www.auburnsounds.com/products/InnerPitch.html)
+* Cymatics [DejaVu](https://cymatics.fm/collections/store/products/deja-vu-plugin)
 
-#### Reverbs
+#### Reverbs and Delays
 
 * Voxengo [OldSkoolVerb](https://www.voxengo.com/product/oldskoolverb/)
 * Adam Szabo [Solaris](https://www.adamszabo.com/vstplugins/solaris/)
 * Valhalla[Supermassive](https://valhalladsp.com/shop/reverb/valhalla-supermassive/)
 * ArtV [Turbo Paco](https://www.kvraudio.com/product/turbo-paco-by-artv)
 * Denis Tihanov [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
+* Platone [Flex Reverb](https://platonestudio.com/product/flex-reverb/) and [Delay Eleven](https://platonestudio.com/product/delay-eleven/)
 
 ### Volume
 
