@@ -14,10 +14,11 @@
 * Techivation [T-De-Esser](https://techivation.com/t-de-esser-plus/)
 * Press Play [Wave Breaker](https://pressplay-music.com/wave-breaker/) ([KVR](https://www.kvraudio.com/product/wave-breaker-by-press-play))
 
-### EQ
+### EQ and Analyze
 
 * [MEqualizer](https://www.meldaproduction.com/MEqualizer)
 * TOKYO DAWN LABS [Nova](https://www.tokyodawn.net/tdr-nova/)
+* TOKYO DAWN LABS [Prism](https://www.tokyodawn.net/tdr-prism/)
 
 ### FX
 
