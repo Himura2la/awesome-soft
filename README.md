@@ -24,6 +24,7 @@ Name | Type | Platform | Popular Alternative
 [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 [OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
+[LosslessCut](https://github.com/mifi/lossless-cut) | FFmpeg GUI for lossless operations | Lin, Mac, Win | CLI ffmpeg
 
 
 ## Imaging/Design/Foto
