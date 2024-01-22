@@ -74,7 +74,7 @@ Name | Specifics | Platform | Popular Alternative
 [GCC](https://www.gnu.org/software/gcc/) | The compiler that changed the industry | Any | Visual Studio, LLVM
 [Regex101](https://regex101.com/) | Regular expressions debugger | Web | Your language's debugger
 [GitLab](https://gitlab.com) | Raise your own internal GitHub-like service! | Web | GitHub
-[tig](http://jonas.nitro.dk/tig/) | Text-based UI for Git | Lin, Mac (CLI) | -
+[tig](https://jonas.github.io/tig/) | Text-based UI for Git | Lin, Mac (CLI) | -
 [Fork](https://git-fork.com/) | GUI for Git | **Mac, Win** | Git Extensions, SourceTree
 [GitKraken](https://www.gitkraken.com/) | GUI for Git (free for home and opensource) | Lin, Mac, Win | Git Extensions, SourceTree
 [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge), [DiffMerge](http://www.sourcegear.com/diffmerge/index.html) | Diff/Merge Tool | Lin, Mac, Win | KDiff3, WinMerge
