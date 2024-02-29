@@ -99,6 +99,7 @@ Name | Specifics | Platform | Popular Alternative
 [Harbor](https://goharbor.io/) | Container registry | Containers | Docker Registry, ACR
 [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | Python GUI Library | Python | wxPython, tcl/tk
 [Kivy](https://kivy.org/gallery.html) | Python GUI Library | Python | PyQt
+[csvkit](https://csvkit.readthedocs.io) | Treat CSV files as database tables | Pthon | -
 
 
 ## Engineering
