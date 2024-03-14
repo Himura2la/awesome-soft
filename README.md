@@ -25,7 +25,7 @@ Name | Type | Platform | Popular Alternative
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 [OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
 [LosslessCut](https://github.com/mifi/lossless-cut) | FFmpeg GUI for lossless operations | Lin, Mac, Win | CLI ffmpeg
-
+[Pedalboard2](https://github.com/lrq3000/Pedalboard2) | VST plugin host for live processing | Lin, Mac, Win | OBS Studio
 
 ## Imaging/Design/Foto
 
