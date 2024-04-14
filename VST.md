@@ -13,6 +13,7 @@
 * TOKYO DAWN LABS [Kotelnikov](https://www.tokyodawn.net/tdr-kotelnikov/)
 * Techivation [T-De-Esser](https://techivation.com/t-de-esser-plus/)
 * Press Play [Wave Breaker](https://pressplay-music.com/wave-breaker/) ([KVR](https://www.kvraudio.com/product/wave-breaker-by-press-play))
+* Bertom Audio [Vocal Compressor](https://bertomaudio.com/vocal-compressor.html)
 
 ### EQ and Analyze
 
@@ -36,7 +37,7 @@
 * ArtV [Turbo Paco](https://www.kvraudio.com/product/turbo-paco-by-artv)
 * Denis Tihanov [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
 * Platone [Flex Reverb](https://platonestudio.com/product/flex-reverb/) and [Delay Eleven](https://platonestudio.com/product/delay-eleven/)
-- Sixth Sample [Deelay](https://sixthsample.com/deelay/)
+* Sixth Sample [Deelay](https://sixthsample.com/deelay/)
 
 
 ### Volume
@@ -54,6 +55,7 @@
 * Voxengo [MSED](https://www.voxengo.com/product/msed/)
 * Waves [StudioRack](https://www.waves.com/plugins/studiorack) (for VST3 support in OBS)
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/)
+* Bertom Audio [EQ Curve Analyzer)(https://bertomaudio.com/eq-curve-analyzer.html)
 
 ### Windows Tools
 
