@@ -138,6 +138,7 @@ Name | Specifics | Platform | Popular Alternative
 [WingetUI](https://github.com/marticliment/WingetUI) | Keep your apps always updated | Win | MS Store
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) | It works! | Python | A youtube-dl fork
 [Jitsi](https://jitsi.org/) / [Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom, Google Meet
+[is.gd](https://is.gd/) | Link Shortener | Web | former goo.gl
 
 
 ## Browser Extensions
