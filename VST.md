@@ -14,6 +14,7 @@
 * Techivation [T-De-Esser](https://techivation.com/t-de-esser-plus/)
 * Press Play [Wave Breaker](https://pressplay-music.com/wave-breaker/) ([KVR](https://www.kvraudio.com/product/wave-breaker-by-press-play))
 * Bertom Audio [Vocal Compressor](https://bertomaudio.com/vocal-compressor.html)
+* [KClip Zero](https://kazrog.com/products/kclip-zero)
 
 ### EQ and Analyze
 
