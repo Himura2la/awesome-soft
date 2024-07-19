@@ -42,7 +42,7 @@ Name | Specifics | Platform | Popular Alternative
 [Synfig Studio](https://www.synfig.org/) | 2D animation software | Lin, Mac, Win | Adobe Animate (former Flash)
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee, IrfanView
-
+[Excalidraw](https://excalidraw.com/) | Whiteboard | Web | Microsoft Whiteboard, diagrams.net
 
 
 ## Plain Text Editors
