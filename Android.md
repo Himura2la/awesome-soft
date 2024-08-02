@@ -1,4 +1,5 @@
 # Awesome Software for Your Android Device
+## (deeply outdated)
 
 
 * https://github.com/Lucchetto/SuperImage
