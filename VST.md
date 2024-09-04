@@ -7,6 +7,7 @@
 * Melda Production [MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
 * Kilohearts [Essentials](https://kilohearts.com/products/kilohearts_essentials)
 * AUDIOMODERN [Gatelab / Filterstep / Panflow](https://audiomodern.com/free/)
+* Venn Audio [Free Suite](https://www.vennaudio.com/free-suite/)
 
 ### Dynamics
 
@@ -15,12 +16,19 @@
 * Press Play [Wave Breaker](https://pressplay-music.com/wave-breaker/) ([KVR](https://www.kvraudio.com/product/wave-breaker-by-press-play))
 * Bertom Audio [Vocal Compressor](https://bertomaudio.com/vocal-compressor.html)
 * [KClip Zero](https://kazrog.com/products/kclip-zero)
+* [JS Inflator](https://github.com/Kiriki-liszt/JS_Inflator)
+
+### Artistic
+* [Fat Cat Saturation](https://voxsamples.com/products/fat-cat-saturation-plugin)
+* [Fresh Air](https://slatedigital.com/fresh-air/)
 
 ### EQ and Analyze
 
 * [MEqualizer](https://www.meldaproduction.com/MEqualizer)
 * TOKYO DAWN LABS [Nova](https://www.tokyodawn.net/tdr-nova/)
 * TOKYO DAWN LABS [Prism](https://www.tokyodawn.net/tdr-prism/)
+* [ZL Equalizer](https://zl-audio.github.io/plugins/zlequalizer/) (mid/side EQ)
+* [TheMasker EQ](https://audioplugins.lim.di.unimi.it/index.php?p=2&#p29) (auto-EQ to minimize overlapping frequencies)
 
 ### FX
 
@@ -56,7 +64,7 @@
 * Voxengo [MSED](https://www.voxengo.com/product/msed/)
 * Waves [StudioRack](https://www.waves.com/plugins/studiorack) (for VST3 support in OBS)
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/)
-* Bertom Audio [EQ Curve Analyzer)(https://bertomaudio.com/eq-curve-analyzer.html)
+* Bertom Audio [EQ Curve Analyzer](https://bertomaudio.com/eq-curve-analyzer.html)
 
 ### Windows Tools
 
