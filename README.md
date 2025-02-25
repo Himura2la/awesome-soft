@@ -102,7 +102,7 @@ Name | Specifics | Platform | Popular Alternative
 [Kivy](https://kivy.org/gallery.html) | Python GUI Library | Python | PyQt
 [csvkit](https://csvkit.readthedocs.io) | Treat CSV files as database tables | Python | -
 [mosh](https://mosh.org/) | SSH client for long-distance and unstable links | Lin, Mac, Win | ssh+tmux
-
+[RustScan](https://github.com/rustscan/rustscan) | Fast port scanner | Lin, Mac, Win | nmap
 
 ## Engineering
 
