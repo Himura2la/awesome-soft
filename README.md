@@ -141,7 +141,7 @@ Name | Specifics | Platform | Popular Alternative
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) | It works! | Python | A youtube-dl fork
 [Jitsi](https://jitsi.org/) / [Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom, Google Meet
 [is.gd](https://is.gd/) | Link Shortener | Web | former goo.gl
-
+[Bananas Screen Sharing](https://github.com/mistweaverco/bananas) | cross-platform, p2p screen 🖥️ sharing 📡 made simple ⚡| Lin, Mac, Win | Jitsi Meet?
 
 ## Browser Extensions
 
