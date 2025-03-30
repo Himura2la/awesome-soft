@@ -29,6 +29,7 @@
 * TOKYO DAWN LABS [Prism](https://www.tokyodawn.net/tdr-prism/)
 * [ZL Equalizer](https://zl-audio.github.io/plugins/zlequalizer/) (mid/side EQ)
 * [TheMasker EQ](https://audioplugins.lim.di.unimi.it/index.php?p=2&#p29) (auto-EQ to minimize overlapping frequencies)
+* [NI Ozone](https://www.native-instruments.com/en/products/izotope/ozone-11-eq/)
 
 ### FX
 
