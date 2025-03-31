@@ -48,6 +48,7 @@
 * Denis Tihanov [OrilRiver](https://www.kvraudio.com/product/orilriver-by-denis-tihanov)
 * Platone [Flex Reverb](https://platonestudio.com/product/flex-reverb/) and [Delay Eleven](https://platonestudio.com/product/delay-eleven/)
 * Sixth Sample [Deelay](https://sixthsample.com/deelay/)
+* Variety Of Sound [epicCLOUDS](https://www.kvraudio.com/product/epicclouds-by-variety-of-sound)
 
 
 ### Volume
