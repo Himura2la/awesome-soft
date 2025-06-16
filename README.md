@@ -105,6 +105,8 @@ Name | Specifics | Platform | Popular Alternative
 [csvkit](https://csvkit.readthedocs.io) | Treat CSV files as database tables | Python | -
 [mosh](https://mosh.org/) | SSH client for long-distance and unstable links | Lin, Mac, Win | ssh+tmux
 [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner | Lin, Mac, Win | nmap
+[Windmill](https://github.com/windmill-labs/windmill) | Automation platform | Web | Power Automate
+[OKD](https://okd.io/) | Easy k8s distributive | Web | kubespray, k3s, minukube
 
 ## Engineering
 
