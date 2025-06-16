@@ -45,7 +45,7 @@ Name | Specifics | Platform | Popular Alternative
 [Excalidraw](https://excalidraw.com/) | Whiteboard | Web | Microsoft Whiteboard, diagrams.net
 
 
-## Plain Text Editors
+## Text Editors
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -53,6 +53,8 @@ Name | Specifics | Platform | Popular Alternative
 [Lite XL](https://github.com/lite-xl/lite-xl) | Light and Fast | Lin, Win | `notepad.exe`, AkelPad, leafpad, lite
 [Vim](https://www.vim.org/download.php) | It seems hard unless you try ([my .vimrc](https://gitlab.com/himura/env/-/blob/master/.vimrc)) | Lin, Mac, Win | Neovim
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
+[Trilium Next](https://github.com/triliumnext) | Personal Knowledge Base | Web | Obsidian
+[Joplin](https://joplinapp.org/) | Personal Knowledge Base | Lin, Mac, Win, Android | Evernote
 
 
 ## Language/Writing
