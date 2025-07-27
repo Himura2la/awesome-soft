@@ -100,8 +100,7 @@ Name | Specifics | Platform | Popular Alternative
 [Nomad](https://www.nomadproject.io/) | A simple orchestrator that you can manage yourself | Web | k8s
 [Jupyter](https://jupyter.org/) | Python notebook | Any | Python Interactive CLI
 [Harbor](https://goharbor.io/) | Container registry | Containers | Docker Registry, ACR
-[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) | Python GUI Library | Python | wxPython, tcl/tk
-[Kivy](https://kivy.org/gallery.html) | Python GUI Library | Python | PyQt
+[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), [Kivy](https://kivy.org/gallery.html) | Python GUI Library | Python | PyQt, wxPython, tcl/tk
 [csvkit](https://csvkit.readthedocs.io) | Treat CSV files as database tables | Python | -
 [mosh](https://mosh.org/) | SSH client for long-distance and unstable links | Lin, Mac, Win | ssh+tmux
 [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner | Lin, Mac, Win | nmap
