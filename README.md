@@ -43,7 +43,7 @@ Name | Specifics | Platform | Popular Alternative
 [FontBase](https://fontba.se/) | Font Manager | Lin, Mac, Win | -
 [FastStone Image Viewer](http://www.faststone.org/FSViewerDownload.htm) | Ultimate | **Win** | ACDSee, IrfanView
 [Excalidraw](https://excalidraw.com/) | Whiteboard | Web | Microsoft Whiteboard, diagrams.net
-
+[ImageManipulation](https://github.com/aiXander/ImageManipulation) | Finds similar images | Python | -
 
 ## Text Editors
 
@@ -106,6 +106,7 @@ Name | Specifics | Platform | Popular Alternative
 [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner | Lin, Mac, Win | nmap
 [Windmill](https://github.com/windmill-labs/windmill) | Automation platform | Web | Power Automate
 [OKD](https://okd.io/) | Easy k8s distributive | Web | kubespray, k3s, minukube
+
 
 ## Engineering
 
