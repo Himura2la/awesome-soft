@@ -106,7 +106,7 @@ Name | Specifics | Platform | Popular Alternative
 [RustScan](https://github.com/rustscan/rustscan) | Fast port scanner | Lin, Mac, Win | nmap
 [Windmill](https://github.com/windmill-labs/windmill) | Automation platform | Web | Power Automate
 [OKD](https://okd.io/) | Easy k8s distributive | Web | kubespray, k3s, minukube
-
+[navi](https://github.com/denisidoro/navi) | shell snippets mamanger | Lin, Mac, Win | Ctrl+R
 
 ## Engineering
 
