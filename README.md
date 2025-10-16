@@ -161,6 +161,12 @@ Name | Specifics | Platform
 [Link Text and Location Copier](https://github.com/evilnickname/link-text-location-copier) | Copy text linked to current page | Fox
 [VkOpt](https://raw.githubusercontent.com/VkOpt/VkOpt/master/builds/vkopt_script.user.js) | VKontakte Optimizer | Tampermonkey
 
+## GNOME Extensions
+
+* [Hot Edge](https://extensions.gnome.org/extension/4222/hot-edge/)
+* [Battery Health Charging](https://extensions.gnome.org/extension/5724/battery-health-charging/)
+* [AWSM](https://extensions.gnome.org/extension/4709/another-window-session-manager/)
+
 
 ## Cool Hardware
 
