@@ -21,7 +21,7 @@ Name | Type | Platform | Popular Alternative
 [OBS Studio](https://obsproject.com/) | Live video production software with unlimited capabilities | Lin, Mac, Win | -
 [HandBrake](https://handbrake.fr) | The ultimate video converter | Lin, Mac, Win | Tons of ugly and greedy shareware
 **[NATRON](https://natrongithub.github.io)**, [enve](https://maurycyliebner.github.io/) | 2D animation, VFX, and Motion Graphics | Lin, Win | After Effects
-[ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
+[Chataigne](https://benjamin.kuperberg.fr/chataigne/en), [ossia score](https://ossia.io/) | Intermedia sequencer (for live shows and media installations) | Lin, Mac, Win | Touchdesigner
 [Q Light Controller Plus](https://www.qlcplus.org) | DMX Controller Software (live stage lightning) | Lin, Mac, Win | Sunlite Suite
 [OpenToonz](https://morevnaproject.org/opentoonz/) | 2D Animation software | Lin, Mac, Win | Adobe Animate
 [LosslessCut](https://github.com/mifi/lossless-cut) | FFmpeg GUI for lossless operations | Lin, Mac, Win | CLI ffmpeg
