@@ -107,6 +107,7 @@ Name | Specifics | Platform | Popular Alternative
 [Windmill](https://github.com/windmill-labs/windmill) | Automation platform | Web | Power Automate
 [OKD](https://okd.io/) | Easy k8s distributive | Web | kubespray, k3s, minukube
 [navi](https://github.com/denisidoro/navi) | shell snippets mamanger | Lin, Mac, Win | Ctrl+R
+[Resterm](https://github.com/unkn0wn-root/resterm) | HTTP/GraphQL/gRPC client | Lin, Mac, Win | curl, postman, insomnia
 
 ## Engineering
 
