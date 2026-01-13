@@ -17,6 +17,7 @@
 * Bertom Audio [Vocal Compressor](https://bertomaudio.com/vocal-compressor.html)
 * [KClip Zero](https://kazrog.com/products/kclip-zero)
 * [JS Inflator](https://github.com/Kiriki-liszt/JS_Inflator)
+* [LoudMax](https://loudmax.blogspot.com/)
 
 ### Artistic
 * [Fat Cat Saturation](https://voxsamples.com/products/fat-cat-saturation-plugin)
