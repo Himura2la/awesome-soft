@@ -107,6 +107,7 @@ Name | Specifics | Platform | Popular Alternative
 [OKD](https://okd.io/) | Easy k8s distributive | Web | kubespray, k3s, minukube
 [navi](https://github.com/denisidoro/navi) | shell snippets mamanger | Lin, Mac, Win | Ctrl+R
 [Resterm](https://github.com/unkn0wn-root/resterm) | HTTP/GraphQL/gRPC client | Lin, Mac, Win | curl, postman, insomnia
+[rainfrog](https://github.com/achristmascarl/rainfrog) | TUI database manager | Lin, Mac, Win | DBeaver
 
 ## Engineering
 
