@@ -153,7 +153,7 @@ Name | Specifics | Platform | Popular Alternative
 Name | Specifics | Platform
 ---- | --------- | --------
 [uBlock Origin](https://github.com/gorhill/uBlock#installation) | A general-purpose blocker | Fox, Chrm
-[I don't care about cookies](https://www.i-dont-care-about-cookies.eu/) | Clean more useless shit from the Internet | Fox, Chrm
+[I (still) don't care about cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies/) | Clean more useless shit from the Internet | Fox, Chrm
 [Dark Reader](https://github.com/darkreader/darkreader#dark-reader-for-google-chrome-and-mozilla-firefox) | Dark mode for any page | Fox, Chrm
 [LanguageTool](https://languagetool.org/#firefox_chrome) | Spell Checker | Fox, Chrm
 [Stylus](https://github.com/openstyles/stylus/#releases) | Userstyles manager | Fox, Chrm
