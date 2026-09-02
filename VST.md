@@ -4,6 +4,7 @@
 
 ### Bundles
 
+* [REASON FREE](https://www.reasonstudios.com/reason-free)
 * Melda Production [MFreeFXBundle](https://www.meldaproduction.com/MFreeFxBundle)
 * Kilohearts [Essentials](https://kilohearts.com/products/kilohearts_essentials)
 * AUDIOMODERN [Gatelab / Filterstep / Panflow](https://audiomodern.com/free/)
