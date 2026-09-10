@@ -91,7 +91,7 @@ Name | Specifics | Platform | Popular Alternative
 [ptpython](https://github.com/prompt-toolkit/ptpython/) | A better Python REPL | Python | `python`
 [Podman](https://podman.io/) | Docker done right (with backward compatibility) | Lin, Mac, Win | Docker
 [Ansible](https://www.ansible.com/) | Describe and maintain the state of your servers | Lin, Mac, Win | bash scripts
-[Diffy](https://diffy.org/) | Online diff-file viewer (`diff -ur ./d1 ./d2 > d.txt`) | Web | git + GitLab or GitHub
+[difit](https://github.com/yoshiko-pg/difit) | Offline diff viewer | NodeJS | git + GitLab or GitHub
 [Flutter](https://flutter.dev/) | Next generation of cross-platform development. Dart is awesome. | Lin, Mac, Win | PhoneGap
 [Turndown](https://mixmark-io.github.io/turndown/) | HTML to Markdown converter | Web | pandoc
 [Google Colab](https://colab.research.google.com) | [Free](https://research.google.com/colaboratory/faq.html) computing resources (including GPUs) | Python, Web
