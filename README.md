@@ -35,6 +35,7 @@ Name | Specifics | Platform | Popular Alternative
 [blender](https://www.blender.org/) | Widely appreciated 3D tool | Lin, Mac, Win | 3ds Max
 [GIMP](gimp.org) | It's awesome when you use shortcuts | Lin, Mac, Win | Photoshop
 [darktable](https://www.darktable.org/), [RawTherapee](https://rawtherapee.com/) | Raw photos developing toolset | Lin, Mac, Win | Lightroom
+[LightTable](https://lighttable.app/) | Digital darkroom with physically modelled film stock | Lin, Mac, Win | Lightroom
 [Hugin](http://hugin.sourceforge.net/) | The best panorama photo stitcher ever | Lin, Mac, Win | Many of them
 [Inkscape](https://inkscape.org/en/) | Vector editor for creative drawings | Lin, Mac, Win | CorelDRAW
 [LibreOffice Draw](https://libreoffice.org/), [Karbon](https://calligra.org/karbon/) | Simple vector editors for technical drawing | Lin, Mac, Win | CorelDRAW
