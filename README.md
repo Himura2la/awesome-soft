@@ -45,7 +45,7 @@ Name | Specifics | Platform | Popular Alternative
 [Excalidraw](https://excalidraw.com/) | Whiteboard | Web | Microsoft Whiteboard, diagrams.net
 [ImageManipulation](https://github.com/aiXander/ImageManipulation) | Finds similar images | Python | -
 
-## Text Editors
+## Text and Office
 
 Name | Specifics | Platform | Popular Alternative
 ---- | --------- | -------- | -------------------
@@ -55,6 +55,7 @@ Name | Specifics | Platform | Popular Alternative
 [HackMD](https://hackmd.io/) | Online & Collaborative | Web | Google Docs
 [Trilium Next](https://github.com/triliumnext) | Personal Knowledge Base | Web/Desktop Sync | Obsidian
 [Joplin](https://joplinapp.org/) | Personal Knowledge Base | Lin, Mac, Win, Android | Evernote
+[Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | PDF Editor | Lin, Mac, Win | Acrobat Pro, Sejda
 
 
 ## Language/Writing
