@@ -148,6 +148,7 @@ Name | Specifics | Platform | Popular Alternative
 [Jitsi](https://jitsi.org/) / [Jitsi Meet](https://meet.jit.si/) | FLOSS Video Conference Service | Web | Zoom, Google Meet
 [is.gd](https://is.gd/) | Link Shortener | Web | former goo.gl
 [Bananas Screen Sharing](https://github.com/mistweaverco/bananas) | cross-platform, p2p screen 🖥️ sharing 📡 made simple ⚡| Lin, Mac, Win | Jitsi Meet?
+[netwatch](https://github.com/matthart1983/netwatch) | htop for network | Lin, Mac | netstat, ip
 
 ## Browser Extensions
 
