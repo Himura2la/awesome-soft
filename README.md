@@ -56,6 +56,7 @@ Name | Specifics | Platform | Popular Alternative
 [Trilium Next](https://github.com/triliumnext) | Personal Knowledge Base | Web/Desktop Sync | Obsidian
 [Joplin](https://joplinapp.org/) | Personal Knowledge Base | Lin, Mac, Win, Android | Evernote
 [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | PDF Editor | Lin, Mac, Win | Acrobat Pro, Sejda
+[Glim](https://github.com/NeoPanic/Glim) | Markdown and document viewer; basic UTF-8 editing, read-only PDF/Office previews (MIT) | Mac | Marked (local Markdown preview)
 
 
 ## Language/Writing
